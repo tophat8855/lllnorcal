@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: `La Leche League of Northern California, Nevada, and Hawaii`,
   },
   plugins: [
     {
