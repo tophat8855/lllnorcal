@@ -15,7 +15,7 @@ export default function GroupMeetingPage({ data }) {
   return (
     <Layout>
       <div>
-        <h1>{post.frontmatter.group}</h1>
+        <h1>La Leche League of {post.frontmatter.group}</h1>
         <h2> Meetings </h2>
         <h3>When</h3>
         <div>{post.frontmatter.time}</div>
@@ -27,7 +27,7 @@ export default function GroupMeetingPage({ data }) {
 
         <h3>Contact</h3>
         {post.frontmatter.leaders.map((leader) => {
-          return <div key={leader.name}>{leader.name} {leader.telephone} </div>
+          return <div key={leader.name}>{leader.name} {leader.telephone} {leader.email}</div>
         })}
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
