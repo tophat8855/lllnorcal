@@ -6,12 +6,19 @@ export default function GroupMeetingPage({ data }) {
   const post = data.markdownRemark
   var facebook;
   if (post.frontmatter.facebook) {
-    facebook = <div><h3>Facebook</h3>
+    facebook = <div><h4>Facebook</h4>
     <a href={post.frontmatter.facebook.url}>
       {post.frontmatter.facebook.name}</a></div>
   } else {
     facebook = <div></div>
   }
+  var website;
+  if (post.frontmatter.website) {
+    website = <div><a href={post.frontmatter.website}>{post.frontmatter.group}'s website</a></div>
+  } else {
+    website = <div></div>
+  }
+
   return (
     <Layout>
       <div>
@@ -23,6 +30,8 @@ export default function GroupMeetingPage({ data }) {
         <h3>Where</h3>
         <div>{post.frontmatter.location}</div>
 
+        <h3>Website</h3>
+        {website}
         {facebook}
 
         <h3>Contact</h3>
@@ -43,9 +52,11 @@ export const query = graphql`
         group
         time
         location
+        website
         facebook {name url}
         leaders {
           name
+          email
           telephone
         }
       }
