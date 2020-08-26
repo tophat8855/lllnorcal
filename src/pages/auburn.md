@@ -11,3 +11,7 @@ leaders:
   - name: Virginia
     telephone: 510-521-4867
 ---
+
+<div>
+Nursing babies are always welcome. You may begin with any meeting, come as often as you like, and ask any questions regardless of that day’s topic.
+</div>
