@@ -1,5 +1,5 @@
 ---
-group: "Hawaii: Big Island - Kona Coast"
+group: "Big Island - Kona Coast, Hawaii"
 meetings:
   - time: "Please text a leader for details"
     location: "Please text a leader for details"
