@@ -8,3 +8,6 @@ Goals:
 - favicon
 - add the map
 - Add paypal donation
+
+
+Question: need page for Oahu?
