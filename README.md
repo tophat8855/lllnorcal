@@ -1,6 +1,7 @@
 
 Goals:
-- Get all the groups' sites there.
+- ~~Get all the groups' sites there.~~
+- Get the groups up to date to today.
 - San Jose's meeting notice
 - Format it pretty
 - add search functionality
