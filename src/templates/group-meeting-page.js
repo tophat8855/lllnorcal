@@ -24,12 +24,16 @@ export default function GroupMeetingPage({ data }) {
       <div>
         <h1>La Leche League of {post.frontmatter.group}</h1>
         <h2> Meetings </h2>
-        <h3>When</h3>
-        <div>{post.frontmatter.time}</div>
+        {post.frontmatter.meetings.map((meeting) => {
+          return <div>
+            <h3>{meeting.name}</h3>
+            <h4>When</h4>
+            <div>{meeting.time}</div>
 
-        <h3>Where</h3>
-        <div>{post.frontmatter.location}</div>
-
+            <h4>Where</h4>
+            <div>{meeting.location}</div>
+            </div>
+        })}
         <h3>Website</h3>
         {website}
         {facebook}
@@ -50,10 +54,13 @@ export const query = graphql`
       html
       frontmatter {
         group
-        time
-        location
         website
         facebook {name url}
+        meetings {
+          name
+          location
+          time
+        }
         leaders {
           name
           email
