@@ -43,6 +43,14 @@ export default function Layout({ children }) {
       >
         About
       </Link>
+      <Link
+        to={`/resources/`}
+        css={css`
+          float: right;
+        `}
+      >
+        Resources
+      </Link>
       {children}
     </div>
   )
