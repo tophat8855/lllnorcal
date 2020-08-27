@@ -1,5 +1,5 @@
 ---
-group: "Lodi and Stockton, California"
+group: "Stockton and Lodi, California"
 meetings:
   - name: Stockton
     time: 10 a.m. on the 4th Tuesday of the month
