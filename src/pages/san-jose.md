@@ -1,7 +1,7 @@
 ---
 group: "San Jose, California"
 meetings:
-  - name: Currenty no in-person meetings
+  - notes: Email for meeting information.
 leaders:
   - name: Victoria, Tali, Brooke, Janet, Jay, Lauren, Sarah, and Rebecca
     telephone: 408-641-0138

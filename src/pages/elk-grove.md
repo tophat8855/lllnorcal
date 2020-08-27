@@ -1,7 +1,7 @@
 ---
 group: "Elk Grove, California"
 meetings:
-  - name: There are no current meetings.
+  - notes: There are no current meetings.
 leaders:
   - name: Carolina 
     email: lllcarolinajones@gmail.com

@@ -2,17 +2,18 @@
 group: "Auburn, California"
 meetings:
   - time: "Third Wednesday of each month at 10am"
-    location: "Please contact Virginia at 510-521-4867 for location information."
 facebook: 
   name: La Leche League of Auburn
   url: http://www.facebook.com/pages/La-Leche-League-of-Auburn/311176739407
 leaders:
-  - name: Brittany
-    telephone: 510-365-9220
-  - name: Virginia
-    telephone: 510-521-4867
+  - name: Julie
+    telephone: (916) 435-5293
+  - name: Becky
+    telephone: (530) 878-1855
+  - name: Sarah
+    telephone: (530) 637-5485
 ---
 
-<div>
 Nursing babies are always welcome. You may begin with any meeting, come as often as you like, and ask any questions regardless of that day’s topic.
-</div>
+
+For up-to-date meeting information, including topics, please visit the [La Leche League of Auburn Facebook page](http://www.facebook.com/pages/La-Leche-League-of-Auburn/311176739407).

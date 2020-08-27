@@ -3,7 +3,8 @@ group: "Solano County, California"
 meetings:
   - name: Vallejo/Benicia Meeting
     time: "10 a.m. on the 1st Wednesday of the month"
-    location: Zoom. Email Corby at inkedstar@sbcglobal.net for link.
+    location: Zoom
+    notes: Email Corby at inkedstar@sbcglobal.net for link.
   - name: Fairfield Meeting
     time: "9:00 to 10:30 a.m. 3rd Tuesday of the Month"
     location: 2019 Starling Way, Fairfield, CA 94533·
@@ -39,8 +40,4 @@ leaders:
     email: shebefergy@gmail.com
     telephone: (916) 622-8944
 ---
-
-LLL Benicia is hosting virtual meetings on the 1st Wednesday of the month. 
-Email Corby at inkedstar@sbcglobal.net for the link and password.
-
 The La Leche League of Solano County offers meetings in each of the following three cities: Fairfield, Vacaville, and Benicia. Please feel free to attend any of our meetings or contact any of our leaders.

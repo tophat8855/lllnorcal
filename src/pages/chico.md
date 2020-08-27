@@ -2,7 +2,7 @@
 group: "Chico, California"
 website: http://www.lllchico.org/
 meetings:
-  - name: See the Facebook page for meeting information.
+  - notes: See the Facebook page for meeting information.
 facebook: 
   name: La Leche League of Chico
   url: https://www.facebook.com/La-Leche-League-of-Chico-1029456960409221

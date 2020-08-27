@@ -2,7 +2,7 @@
 group: "Carson Valley, Nevada"
 meetings:
   - time: "10 a.m. on the 3rd Wednesday of the month"
-    location: "Please contact Tara (see contact information below) for the location."
+    location: "Please contact Tara for the location."
 leaders:
   - name: Tara
     email: CarsonValleyLLL@gmail.com

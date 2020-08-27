@@ -1,8 +1,7 @@
 ---
 group: "Big Island - Kona Coast, Hawaii"
 meetings:
-  - time: "Please text a leader for details"
-    location: "Please text a leader for details"
+  - notes: "Please text a leader for details"
 leaders:
   - name: Rachel
     telephone: (808)909-8025

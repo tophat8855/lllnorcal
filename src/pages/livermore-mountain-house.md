@@ -4,6 +4,7 @@ meetings:
   - name: Mountain House Meetings
     time: "10am-11:30am First Monday of the Month"
     location: 704 W La Canada Ave, Mountain House, CA 95391
+    notes: This space is in a residential neighborhood. Please do not park near anyone’s driveway. There is an ample strip along which to park on Hancock Park Dr.
 facebook: 
   name: La Leche League of Livermore & Mountain House
   url: http://www.facebook.com/groups/LLLofLivermore/
@@ -12,8 +13,6 @@ leaders:
     email: MountainHouseLLL@gmail.com
     telephone: (925)391-0711
 ---
-A note about parking: This space is in a residential neighborhood. Please do not park near anyone’s driveway. There is an ample strip along which to park on Hancock Park Dr.
-
 NOTE: Please RSVP on our our Facebook page if you are planning on attending our meetings.
 
 RSVPs are strongly encouraged that so if cancellation is necessary, attendees can be notified.

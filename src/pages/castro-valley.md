@@ -3,6 +3,7 @@ group: "Castro Valley, California"
 meetings:
   - time: "weekly on Wednesdays 10am-11am"
     location: Zoom
+    notes: Email us for link to join.
 facebook:
   name: La Leche League of Castro Valley & San Leandro
   url: https://www.facebook.com/groups/LLLCastroValleySanLeandro

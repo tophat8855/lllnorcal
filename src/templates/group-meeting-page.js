@@ -32,6 +32,9 @@ export default function GroupMeetingPage({ data }) {
 
             <h4>Where</h4>
             <div>{meeting.location}</div>
+
+            <h4>Notes</h4>
+            <div>{meeting.notes}</div>
             </div>
         })}
         <h3>Website</h3>
@@ -60,6 +63,7 @@ export const query = graphql`
           name
           location
           time
+          notes
         }
         leaders {
           name

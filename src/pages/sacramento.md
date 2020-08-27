@@ -4,6 +4,7 @@ meetings:
   - name: On Zoom for the rest of 2020
     time: "On the second Tuesday and third Thursdays of the month"
     location: Zoom
+    notes: For up-to-date meeting information, including topics, please visit the La Leche League of Auburn Facebook page.
 facebook: 
   name: Greater Sacramento La Leche League
   url: https://www.facebook.com/groups/282951872936/
@@ -11,7 +12,7 @@ leaders:
   - name: La Leche League Sacramento Leaders
     email: LaLecheSac@gmail.com
 ---
-Please email Greater Sacramento La Leche League at LaLecheSac@gmail.com in advance to receive the Meeting link and password for Zoom.us. 
+Upcoming meeting dates and times:
 
 Tuesday, September 8, 6:00 – 7:00 pm
 
