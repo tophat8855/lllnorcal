@@ -1,20 +1,34 @@
 ---
 group: "Sacramento, California"
 meetings:
-  - name: Day Meeting
-    time: 10:00 a.m. – 12 noon on the 3rd Thursday of the month
-    location: The Root, 3385 Lanatt St. Ste D. Sacramento, CA 95819
-  - name: Evening Meeting
-    time: 6:00 p.m. on the 2nd Tuesday of the month
-    location: Kindermusik · 1007 22nd Street · Sacramento
-website: https://lllfresno.org
+  - name: On Zoom for the rest of 2020
+    time: "On the second Tuesday and third Thursdays of the month"
+    location: Zoom
 facebook: 
   name: Greater Sacramento La Leche League
   url: https://www.facebook.com/groups/282951872936/
 leaders:
-  - name: Michelle
-    telephone: (916) 956-1999
+  - name: La Leche League Sacramento Leaders
+    email: LaLecheSac@gmail.com
 ---
-More leaders can be reached via our Facebook page.
+Please email Greater Sacramento La Leche League at LaLecheSac@gmail.com in advance to receive the Meeting link and password for Zoom.us. 
+
+Tuesday, September 8, 6:00 – 7:00 pm
+
+Thursday, September 17, 10:00 – 11:00am 
+
+Tuesday, October 13, 6:00 – 7:00 pm
+
+Thursday, October 15, 10:00 – 11:00 am 
+
+Tuesday, November 10, 6:00 – 7:00 pm
+
+Thursday, November 19, 10:00 – 11:00 am
+
+Tuesday, December 8, 6:00 – 7:00 pm
+
+Thursday, December 17, 10:00 – 11:00 am 
+
+Leaders can also be reached via our Facebook page.
 
 For mothers in or near Natomas, please visit the LLL of Natomas page.

@@ -2,19 +2,19 @@
 group: "Solano County, California"
 meetings:
   - name: Vallejo/Benicia Meeting
-    time: 10 a.m. on the 1st Wednesday of the month
-    location: 1446 George Court, Benicia, CA 
+    time: "10 a.m. on the 1st Wednesday of the month"
+    location: Zoom. Email Corby at inkedstar@sbcglobal.net for link.
   - name: Fairfield Meeting
-    time: 9:00 to 10:30 a.m. 3rd Tuesday of the Month
+    time: "9:00 to 10:30 a.m. 3rd Tuesday of the Month"
     location: 2019 Starling Way, Fairfield, CA 94533·
   - name: Vacaville Nighttime
-    time: 7:00 – 8:30 p.m. on the 2nd Tuesday of the month
+    time: "7:00 – 8:30 p.m. on the 2nd Tuesday of the month"
     location: 136 Saybrook Avenue Vacaville, CA 
   - name: Vacaville Evening
-    time: 6:00 p.m. on the 4th Tuesday of the month
+    time: "6:00 p.m. on the 4th Tuesday of the month"
     location: Vacaville WIC Clinic, 1119 E. Monte Vista Ave., 2nd floor – Elevator available; open to the public, not just WIC recipients
   - name: Vacaville Morning
-    time: call Becca McCarthy for location and time
+    time: "call Becca McCarthy for location and time"
     location: Vacaville
 facebook: 
   name: La Leche League of Solano County
@@ -39,4 +39,8 @@ leaders:
     email: shebefergy@gmail.com
     telephone: (916) 622-8944
 ---
+
+LLL Benicia is hosting virtual meetings on the 1st Wednesday of the month. 
+Email Corby at inkedstar@sbcglobal.net for the link and password.
+
 The La Leche League of Solano County offers meetings in each of the following three cities: Fairfield, Vacaville, and Benicia. Please feel free to attend any of our meetings or contact any of our leaders.

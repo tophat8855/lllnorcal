@@ -2,10 +2,10 @@
 group: "Fresno County, California"
 meetings:
   - name: Evening Meeting
-    time: 7pm-9pm on the first Tuesday of the month.
+    time: "7pm-9pm on the first Tuesday of the month."
     location: Please check our website or Facebook page.
   - name: Morning Meeting
-    time: 9:45 a.m.- 12pm on the 3rd Thursday of the month
+    time: "9:45 a.m.- 12pm on the 3rd Thursday of the month"
     location:  Please check our website or Facebook page.
 website: https://lllfresno.org
 facebook: 

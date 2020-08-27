@@ -2,7 +2,7 @@
 group: "Oakland, California"
 meetings:
   - name: Saturday Monthly Meeting
-    time: 10:30 a.m. to noon on the last Saturday of the month.
+    time: "10:30 a.m. to noon on the last Saturday of the month."
     location: Bay Area Midwifery – 2800 Park Blvd, Oakland
 leaders:
   - name: Oakland Help Line, Julia and Tonya

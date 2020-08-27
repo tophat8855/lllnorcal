@@ -2,7 +2,7 @@
 group: "Livermore/Mountain House, California"
 meetings:
   - name: Mountain House Meetings
-    time: 10am-11:30am First Monday of the Month
+    time: "10am-11:30am First Monday of the Month"
     location: 704 W La Canada Ave, Mountain House, CA 95391
 facebook: 
   name: La Leche League of Livermore & Mountain House

@@ -2,10 +2,10 @@
 group: "Merced, California"
 meetings:
   - name: Evening Meeting
-    time: First Thursday of the month, 5:30-7pm
+    time: "First Thursday of the month, 5:30-7pm"
     location: A private home, please call for details
   - name: Day Meeting
-    time: Third Tuesday of the month, 10:30am-12pm
+    time: "Third Tuesday of the month, 10:30am-12pm"
     location: Merced County Library
 leaders:
   - name: Lily

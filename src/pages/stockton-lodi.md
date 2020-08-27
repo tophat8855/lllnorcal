@@ -2,7 +2,7 @@
 group: "Stockton and Lodi, California"
 meetings:
   - name: Stockton
-    time: 10 a.m. on the 4th Tuesday of the month
+    time: "10 a.m. on the 4th Tuesday of the month"
     location: Blackwater Cafe, 912 N Yosemite Avenue, Stockton
 leaders:
   - name: Ashley
