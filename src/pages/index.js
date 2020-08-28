@@ -1,21 +1,14 @@
 import React from "react"
 import { css } from "@emotion/core"
 import { Link, graphql } from "gatsby"
-import { rhythm } from "../utils/typography"
 import Layout from "../components/layout"
+import { Header } from 'semantic-ui-react'
 
 export default function Home({ data }) {
   return (
     <Layout>
       <div>
-        <h1
-          css={css`
-            display: inline-block;
-            border-bottom: 1px solid;
-          `}
-        >
-          Layout Page
-        </h1>
+        <Header as='h1'> Groups </Header>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
@@ -25,19 +18,9 @@ export default function Home({ data }) {
                 color: inherit;
               `}
             >
-              <h3
-                css={css`
-                  margin-bottom: ${rhythm(1 / 4)};
-                `}
-              >
+              <Header >
                 {node.frontmatter.group}{" "}
-                <span
-                  css={css`
-                    color: #555;
-                  `}
-                >
-                </span>
-              </h3>
+              </Header>
             </Link>
           </div>
         ))}

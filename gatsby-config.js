@@ -9,9 +9,10 @@ module.exports = {
         name: `src`,
         path: `${__dirname}/src/`,
       },
-    },
+    },  
     `gatsby-transformer-remark`,
     `gatsby-plugin-emotion`,
+    `gatsby-plugin-less`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
