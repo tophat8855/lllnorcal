@@ -1,5 +1,6 @@
 ---
-group: "Oakland, California"
+group: "Oakland"
+state: California
 meetings:
   - name: Saturday Monthly Meeting
     time: "10:30 a.m. to noon on the last Saturday of the month."

@@ -1,5 +1,6 @@
 ---
-group: "Monterey Peninsula, California"
+group: "Monterey Peninsula"
+state: California
 facebook:
   name: La Leche League of the Monterey Peninsula
   url: http://www.facebook.com/groups/103140689739975/

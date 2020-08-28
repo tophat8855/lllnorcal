@@ -1,5 +1,6 @@
 ---
-group: "Solano County, California"
+group: "Solano County"
+state: California
 meetings:
   - name: Vallejo/Benicia Meeting
     time: "10 a.m. on the 1st Wednesday of the month"

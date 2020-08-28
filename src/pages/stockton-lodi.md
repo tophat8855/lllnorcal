@@ -1,5 +1,6 @@
 ---
-group: "Stockton and Lodi, California"
+group: "Stockton and Lodi"
+state: California
 meetings:
   - name: Stockton
     time: "10 a.m. on the 4th Tuesday of the month"

@@ -1,5 +1,6 @@
 ---
-group: "Pittsburg/Antioch, California"
+group: "Pittsburg/Antioch"
+state: California
 meetings:
   - name: Currently no meetings are held, but you can contact the local leader for information.
 leaders:

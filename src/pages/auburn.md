@@ -1,5 +1,6 @@
 ---
-group: "Auburn, California"
+group: "Auburn"
+state: California
 meetings:
   - time: "Third Wednesday of each month at 10am"
 facebook: 

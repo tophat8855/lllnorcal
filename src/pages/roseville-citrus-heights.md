@@ -1,5 +1,6 @@
 ---
-group: "Roseville-Citrus Heights, California"
+group: "Roseville-Citrus Heights"
+state: California
 meetings:
   - name: Daytime Meetings
     time: "10:00 a.m. on the third TUESDAY of the month"

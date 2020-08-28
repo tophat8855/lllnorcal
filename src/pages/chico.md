@@ -1,5 +1,6 @@
 ---
-group: "Chico, California"
+group: "Chico"
+state: California
 website: http://www.lllchico.org/
 meetings:
   - notes: See the Facebook page for meeting information.

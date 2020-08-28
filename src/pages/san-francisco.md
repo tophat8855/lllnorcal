@@ -1,5 +1,6 @@
 ---
-group: "San Francisco, California"
+group: "San Francisco"
+state: California
 meetings:
   - time: "Weekly on Saturdays 10:30-11:30"
     location: Zoom

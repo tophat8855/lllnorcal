@@ -1,5 +1,6 @@
 ---
-group: "Kauai - Princeville, Hawaii"
+group: "Kauai - Princeville"
+state: Hawaii
 meetings:
   - name: No current in-person meetings.
 leaders:

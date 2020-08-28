@@ -1,5 +1,6 @@
 ---
-group: "Reno-Sparks, Nevada"
+group: "Reno-Sparks"
+state: Nevada
 meetings:
   - name: Day Meeting
     time: "10 – 11 a.m. on the 2nd Thursday of each month"

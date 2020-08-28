@@ -1,5 +1,6 @@
 ---
-group: "Red Bluff, California"
+group: "Red Bluff"
+state: California
 meetings:
   - time: "11 a.m on the 2nd Thursday of the month"
     location: Sunrise Bible Fellowship · 956 Jackson Street

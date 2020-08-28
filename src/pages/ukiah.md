@@ -1,5 +1,6 @@
 ---
-group: "Ukiah, California"
+group: "Ukiah"
+state: California
 meetings:
   - time: "10 a.m. on the 1st Thursday of the month"
     location: "Mendocino Baby – 198 South School Street – on the NW corner of School St. and Church St. in Ukiah"

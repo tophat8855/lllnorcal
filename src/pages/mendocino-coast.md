@@ -1,5 +1,6 @@
 ---
-group: "Mendocino Coast, California"
+group: "Mendocino Coast"
+state: California
 meetings:
   - name: No meetings at this time.
 leaders:

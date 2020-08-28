@@ -1,5 +1,6 @@
 ---
-group: "Maui, Hawaii"
+group: "Maui"
+state: Hawaii
 meetings:
   - time: 4th Thursday of the month
     notes: Please contact leader for time and directions

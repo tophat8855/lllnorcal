@@ -1,5 +1,6 @@
 ---
-group: "Livermore/Mountain House, California"
+group: "Livermore/Mountain House"
+state: California
 meetings:
   - name: Mountain House Meetings
     time: "10am-11:30am First Monday of the Month"

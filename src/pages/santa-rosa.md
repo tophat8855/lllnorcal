@@ -1,5 +1,6 @@
 ---
-group: "Santa Rosa, California"
+group: "Santa Rosa"
+state: California
 meetings:
   - time: "10:30 a.m. on the 1st Friday of the month"
     location: Women’s Health and Birth Center, 583 Summerfield Road, Santa Rosa

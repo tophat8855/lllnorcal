@@ -1,5 +1,6 @@
 ---
-group: "Truckee, California"
+group: "Truckee"
+state: California
 meetings:
   - notes: There are no meetings in Truckee at this time, but you may call the local leader with questions. The closest meetings are in the Reno area.
 leaders:

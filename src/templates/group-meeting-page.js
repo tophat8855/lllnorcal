@@ -57,6 +57,7 @@ export const query = graphql`
       html
       frontmatter {
         group
+        state
         website
         facebook {name url}
         meetings {

@@ -1,5 +1,6 @@
 ---
-group: "Briones, California"
+group: "Briones"
+state: California
 meetings:
   - time: "First Saturday of the month 10am"
     location: "Zoom Link from the Facebook Group"

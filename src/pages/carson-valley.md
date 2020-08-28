@@ -1,5 +1,6 @@
 ---
-group: "Carson Valley, Nevada"
+group: "Carson Valley"
+state: Nevada
 meetings:
   - time: "10 a.m. on the 3rd Wednesday of the month"
     location: "Please contact Tara for the location."

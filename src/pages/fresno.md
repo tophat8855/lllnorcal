@@ -1,5 +1,6 @@
 ---
-group: "Fresno County, California"
+group: "Fresno County"
+state: California
 meetings:
   - name: Evening Meeting
     time: "7pm-9pm on the first Tuesday of the month."

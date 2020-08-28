@@ -1,5 +1,6 @@
 ---
-group: "San Jose, California"
+group: "San Jose"
+state: California
 meetings:
   - notes: Email for meeting information.
 leaders:

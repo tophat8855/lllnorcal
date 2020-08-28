@@ -1,5 +1,6 @@
 ---
-group: "Castro Valley, California"
+group: "Castro Valley"
+state: California
 meetings:
   - time: "weekly on Wednesdays 10am-11am"
     location: Zoom

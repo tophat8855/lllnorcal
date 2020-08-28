@@ -1,5 +1,6 @@
 ---
-group: "Sacramento, California"
+group: "Sacramento"
+state: California
 meetings:
   - name: On Zoom for the rest of 2020
     time: "On the second Tuesday and third Thursdays of the month"

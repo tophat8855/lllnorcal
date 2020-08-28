@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Menu } from 'semantic-ui-react'
+import { Menu, DropdownItem, DropdownMenu, Dropdown} from 'semantic-ui-react'
 import { Link } from 'gatsby'
 import 'semantic-ui-less/semantic.less'
 
@@ -30,6 +30,33 @@ export default class MenuHeader extends Component {
           as={Link}
           to={`/resources/`}
         />
+        <Dropdown item text='California'>
+          <DropdownMenu>
+            {this.props.california.map(({ node }) => (
+              <DropdownItem key={node.id} as={Link} to={node.fields.slug}>
+                {node.frontmatter.group}
+              </DropdownItem>
+            ))}
+          </DropdownMenu>
+        </Dropdown>
+        <Dropdown item text='Hawaii'>
+          <DropdownMenu>
+            {this.props.hawaii.map(({ node }) => (
+              <DropdownItem key={node.id} as={Link} to={node.fields.slug}>
+                {node.frontmatter.group}
+              </DropdownItem>
+            ))}
+          </DropdownMenu>
+        </Dropdown>
+        <Dropdown item text='Nevada'>
+          <DropdownMenu>
+            {this.props.nevada.map(({ node }) => (
+              <DropdownItem key={node.id} as={Link} to={node.fields.slug}>
+                {node.frontmatter.group}
+              </DropdownItem>
+            ))}
+          </DropdownMenu>
+        </Dropdown>
       </Menu>
     )
   }

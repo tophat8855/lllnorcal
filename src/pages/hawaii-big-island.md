@@ -1,5 +1,6 @@
 ---
-group: "Big Island - Kona Coast, Hawaii"
+group: "Big Island - Kona Coast"
+state: Hawaii
 meetings:
   - notes: "Please text a leader for details"
 leaders:

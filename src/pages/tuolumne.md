@@ -1,5 +1,6 @@
 ---
-group: "Tuolumne County, California"
+group: "Tuolumne County"
+state: California
 meetings:
   - time: "10 a.m. on the 2nd Friday of the month"
     location: Tuolumne County Library Meeting Room · 480 Greenley Road in Sonora

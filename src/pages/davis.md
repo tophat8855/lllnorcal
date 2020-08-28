@@ -1,5 +1,6 @@
 ---
-group: "Davis, California"
+group: "Davis"
+state: California
 meetings:
   - time: "10:00 – 11 a.m. on the 1st Thursday of the month"
     location: "Solano Park Community Center · 2500 Solano Park Circle · Davis "

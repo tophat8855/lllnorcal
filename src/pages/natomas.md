@@ -1,5 +1,6 @@
 ---
-group: "Natomas, California"
+group: "Natomas"
+state: California
 meetings:
   - name: Evening Meeting
     time: "6 p.m. on the 4th Tuesday of the month"

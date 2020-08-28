@@ -1,5 +1,6 @@
 ---
-group: "Merced, California"
+group: "Merced"
+state: California
 meetings:
   - name: Evening Meeting
     time: "First Thursday of the month, 5:30-7pm"

@@ -1,5 +1,6 @@
 ---
-group: "Marin, California"
+group: "Marin"
+state: California
 meetings:
   - name: Marin Morning Meeting
     time: "10:30 a.m. to 12:00 p.m. on the 4th Monday of the month"

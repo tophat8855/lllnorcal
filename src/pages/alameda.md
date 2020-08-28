@@ -1,5 +1,6 @@
 ---
-group: "Alameda, California"
+group: "Alameda"
+state: California
 meetings:
   - time: "Third Wednesday of each month at 10:30am. Meetings in December are held on the second Wednesday."
     location: "Please contact Virginia at 510-521-4867 for location information."

@@ -1,5 +1,6 @@
 ---
-group: "Hanford, California"
+group: "Hanford"
+state: California
 meetings:
   - name: Contact Cathy or visit the Facebook group
 facebook:

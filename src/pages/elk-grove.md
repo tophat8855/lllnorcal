@@ -1,5 +1,6 @@
 ---
-group: "Elk Grove, California"
+group: "Elk Grove"
+state: California
 meetings:
   - notes: There are no current meetings.
 leaders:

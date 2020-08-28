@@ -1,5 +1,6 @@
 ---
-group: "Redding, California"
+group: "Redding"
+state: California
 meetings:
   - name: LLL of Redding
     time: "10 a.m. on the 2nd Friday of the month"
