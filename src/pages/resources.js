@@ -17,12 +17,13 @@ export default function Resources({data}) {
         <div><a href="http://cosleeping.nd.edu/">Mother-baby Behavioral Sleep Laboratory</a></div>
         <div><a href="https://www.babyfriendlyusa.org/">Baby-Friendly USA</a></div>
 
-        <h2>Avocacy</h2>
+        <h2>Advocacy</h2>
 
         <div><a href="http://www.usbreastfeeding.org/">United States Breastfeeding Committee </a></div>
         <div><a href="http://californiabreastfeeding.org/">California Breastfeeding Coalition</a></div>
         <div><a href="http://www.breastfeedinghawaii.org/home">Breastfeeding Hawaii</a></div>
         <div><a href="http://nevadabreastfeeds.org/">Nevada Breastfeeds</a></div>
+        <div><a href="https://nnbc.wildapricot.org/">Northern Nevada Breastfeeding Coalition</a></div>
         <div><a href="http://www.breastfeedingonline.com/who.shtml">WHO International Code for Marketing Breastmilk Substitutes</a></div>
         <div><a href="http://waba.org.my/">World Alliance for Breastfeeding Action</a></div>
         <div><a href="http://worldbreastfeedingweek.org/">World Breastfeeding Week</a></div>

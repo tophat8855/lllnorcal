@@ -2,8 +2,7 @@
 Goals:
 - ~~Get all the groups' sites there.~~
 - ~~Get the groups up to date to today.~~
-- Format it pretty
-- link Nevada groups
+- ~~Format it pretty~~
 - deploy
 - add search functionality
 - Add the calendar of virtual events
