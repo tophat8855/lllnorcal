@@ -1,5 +1,6 @@
 import React from "react"
 import  MenuHeader from "../components/header"
+import { Image } from 'semantic-ui-react'
 import { useStaticQuery, graphql } from "gatsby"
 
 export default function Layout({ children }) {
@@ -38,6 +39,7 @@ export default function Layout({ children }) {
         hawaii={data.allMarkdownRemark.group[1].edges}
         nevada={data.allMarkdownRemark.group[2].edges}
         />
+        <Image src={`/LLL-norcalhinv.jpg`} size='medium' />
       {children}
     </div>
   )
