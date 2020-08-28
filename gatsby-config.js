@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `La Leche League of Northern California, Nevada, and Hawaii`,
+    title: `La Leche League of Northern California, Hawaii, and Nevada`,
   },
   plugins: [
     {

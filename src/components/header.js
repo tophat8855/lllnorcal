@@ -21,19 +21,21 @@ export default class MenuHeader extends Component {
           active={activeItem === 'about'}
           onClick={this.handleItemClick}
           as={Link}
-          to={`/about/`}
+          to={`/about`}
         />
         <Menu.Item
           name='resources'
           active={activeItem === 'resources'}
           onClick={this.handleItemClick}
           as={Link}
-          to={`/resources/`}
+          to={`/resources`}
         />
         <Dropdown item text='California'>
           <DropdownMenu>
             {this.props.california.map(({ node }) => (
-              <DropdownItem key={node.id} as={Link} to={node.fields.slug}>
+              <DropdownItem key={node.id}
+                            as={Link}
+                            to={node.fields.slug}>
                 {node.frontmatter.group}
               </DropdownItem>
             ))}
