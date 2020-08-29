@@ -10,6 +10,6 @@ meetings:
     location: Monterey Birth and Wellness Center – 4 Harris Court, Suite A, Monterey
 leaders:
   - name: Help Line
-    telephone:  (831) 373-0555
+    telephone: 831-373-0555
     email: lll.monterey@gmail.com
 ---

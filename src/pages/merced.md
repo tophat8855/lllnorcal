@@ -10,8 +10,8 @@ meetings:
     location: Merced County Library
 leaders:
   - name: Lily
-    telephone: (732) 425-0888
+    telephone: 732-425-0888
   - name: Angela
-    telephone:  (209) 658-8425
+    telephone: 209-658-8425
     email: angelawaskiewicz@gmail.com
 ---

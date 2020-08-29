@@ -2,7 +2,7 @@
 group: "Hanford"
 state: California
 meetings:
-  - name: Contact Cathy or visit the Facebook group
+  - notes: Contact Cathy or visit the Facebook group
 facebook:
   name: La Leche League - Hanford, CA
   url: https://www.facebook.com/groups/263228703790831/

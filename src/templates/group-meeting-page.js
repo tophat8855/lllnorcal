@@ -1,52 +1,172 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import { Card, List } from "semantic-ui-react";
+
+function MeetingName(name){
+  if(name) {
+    return(
+      <List.Item>
+      <List.Header>{name}</List.Header>
+      </List.Item>
+    )
+  }
+}
+
+function Time(time){
+  if (time) {
+    return(
+    <List.Item>
+      <List.Icon name='calendar alternate outline'/>
+      <List.Content>
+        <List.Header>
+          When
+        </List.Header>
+        <List.Description>
+          {time}
+        </List.Description>
+      </List.Content>
+    </List.Item>
+    )
+  }
+}
+
+function Location(location){
+  if (location) {
+    return(
+    <List.Item>
+      <List.Icon name='location arrow'/>
+      <List.Content>
+        <List.Header>
+          Where
+        </List.Header>
+        <List.Description>
+          {location}
+        </List.Description>
+      </List.Content>
+    </List.Item>
+    )
+  }
+}
+
+function LeaderPhone(telephone){
+  if (telephone) {
+    return(
+      <List.Item href={'tel:' + telephone}>
+        <List.Icon name='phone'/>
+        <List.Content>{telephone}</List.Content>
+      </List.Item>
+    )
+  }
+}
+
+function LeaderEmail(email){
+  if (email) {
+    return(
+      <List.Item href={'mailto:' + email}>
+        <List.Icon name='mail outline'/>
+        <List.Content>{email}</List.Content>
+      </List.Item>
+    )
+  }
+}
+
+function LeaderDescription(leader){
+  return <List.List>
+    {LeaderPhone(leader.telephone)}
+    {LeaderEmail(leader.email)}
+  </List.List>
+}
 
 export default function GroupMeetingPage({ data }) {
   const post = data.markdownRemark
-  var facebook;
+  let meetings, facebook, website, leaders;
+  if (post.frontmatter.meetings) {
+     meetings =
+     <div>
+      <h3>Meetings</h3>
+        {post.frontmatter.meetings.map((meeting) => {
+          return (<List>
+            {MeetingName(meeting.name)}
+            {Time(meeting.time)}
+            {Location(meeting.location)}
+            <Card.Description>
+              {meeting.notes}
+            </Card.Description>
+          </List>)
+        })}
+        </div>
+  } else {
+    meetings = <div/>
+  }
+
   if (post.frontmatter.facebook) {
-    facebook = <div><h4>Facebook</h4>
-    <a href={post.frontmatter.facebook.url}>
-      {post.frontmatter.facebook.name}</a></div>
+    facebook =
+    <List.Item href={post.frontmatter.facebook.url}>
+      <List.Icon name='facebook'/>
+        {post.frontmatter.facebook.name}
+      </List.Item>
   } else {
     facebook = <div></div>
   }
-  var website;
+
   if (post.frontmatter.website) {
-    website = <div><a href={post.frontmatter.website}>{post.frontmatter.group}'s website</a></div>
+    website =
+    <List.Item href={post.frontmatter.website.url}>
+      <List.Icon name='world'/>
+        {post.frontmatter.website.name}
+      </List.Item>
   } else {
     website = <div></div>
   }
 
+  if (post.frontmatter.leaders) {
+    leaders = <div>
+      {post.frontmatter.leaders.map((leader) => {
+        return(
+          <List>
+            <List.Item key={leader.name.split(",")[0]}>
+              <List.Content>
+                <List.Header>{leader.name}</List.Header>
+                {LeaderDescription(leader)}
+              </List.Content>
+            </List.Item>
+          </List>
+        )})}
+      </div>
+  } else {
+    leaders = <div/>
+  }
+
   return (
     <Layout>
-      <div>
-        <h1>La Leche League of {post.frontmatter.group}</h1>
-        <h2> Meetings </h2>
-        {post.frontmatter.meetings.map((meeting) => {
-          return <div>
-            <h3>{meeting.name}</h3>
-            <h4>When</h4>
-            <div>{meeting.time}</div>
+      <Card fluid color='orange'>
+        <Card.Content>
+          <Card.Header>
+            La Leche League of {post.frontmatter.group}
+          </Card.Header>
 
-            <h4>Where</h4>
-            <div>{meeting.location}</div>
+          <Card.Meta>
+            {post.frontmatter.state}
+          </Card.Meta>
+        </Card.Content>
 
-            <h4>Notes</h4>
-            <div>{meeting.notes}</div>
-            </div>
-        })}
-        <h3>Website</h3>
-        {website}
-        {facebook}
+        <Card.Content>
+          {meetings}
+        </Card.Content>
 
+        <Card.Content>
         <h3>Contact</h3>
-        {post.frontmatter.leaders.map((leader) => {
-          return <div key={leader.name}>{leader.name} {leader.telephone} {leader.email}</div>
-        })}
+
+        <List>
+          {website}
+          {facebook}
+          {leaders}
+        </List>
+
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </div>
+        </Card.Content>
+      </Card>
     </Layout>
   )
 }
@@ -58,7 +178,7 @@ export const query = graphql`
       frontmatter {
         group
         state
-        website
+        website {name url}
         facebook {name url}
         meetings {
           name

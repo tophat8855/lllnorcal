@@ -24,7 +24,7 @@ facebook:
 leaders:
   - name: Becca McCarthy (Vacaville)
     email: Becca_McCarthy@yahoo.com
-    telephone: (707) 628-1463
+    telephone: 707-628-1463
   - name: Corby (Benicia and Vallejo) 
     email: inkedstar@sbcglobal.net
     telephone: 707-745-3932
@@ -39,6 +39,6 @@ leaders:
     telephone: 707-386-3114
   - name: Nickie (Fairfield)
     email: shebefergy@gmail.com
-    telephone: (916) 622-8944
+    telephone: 916-622-8944
 ---
 The La Leche League of Solano County offers meetings in each of the following three cities: Fairfield, Vacaville, and Benicia. Please feel free to attend any of our meetings or contact any of our leaders.

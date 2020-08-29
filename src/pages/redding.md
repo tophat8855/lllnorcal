@@ -17,12 +17,12 @@ facebook:
 leaders:
   - name: Nancy 
     email: nancydellamaria@gmail.com
-    telephone: "(530) 247-7406, text or voicemail: (413) 563-1424"
+    telephone: 530-247-7406
   - name: Kim 
     email: Avw4kim@aol.com
-    telephone: (530) 549-4675
+    telephone: 530-549-4675
   - name: Jula (Bilingual Spanish/Ayuda en Español)
     email: julaherzog@yahoo.com
-    telephone: (530) 221-4720
+    telephone: 530-221-4720
 ---
 For more Information, call Nancy at 530-247-7406 or text 413-563-1424 or visit our FB page

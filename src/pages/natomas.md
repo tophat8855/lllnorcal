@@ -9,7 +9,7 @@ leaders:
   - name: Maggie
     email: MJR8706@gmail.com
   - name: Debbie
-    telephone: (916) 304-5228
+    telephone: 916-304-5228
   - name: Michelle
-    telephone:  (916) 956-1999
+    telephone: 916-956-1999
 ---

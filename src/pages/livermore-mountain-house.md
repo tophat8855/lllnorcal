@@ -12,7 +12,7 @@ facebook:
 leaders:
   - name: Teri
     email: MountainHouseLLL@gmail.com
-    telephone: (925)391-0711
+    telephone: 925-391-0711
 ---
 NOTE: Please RSVP on our our Facebook page if you are planning on attending our meetings.
 

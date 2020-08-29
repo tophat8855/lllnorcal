@@ -7,5 +7,5 @@ meetings:
     notes: The meeting is held in the meeting room of Mendocino Baby.
 leaders:
   - name: Nicole
-    telephone:  707-380-5177
+    telephone: 707-380-5177
 ---

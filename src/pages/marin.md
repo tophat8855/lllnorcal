@@ -10,5 +10,5 @@ facebook:
   url: https://www.facebook.com/lalechemarin
 leaders:
   - name: La Leche League of Marin Helpline 
-    telephone:  415-789-MILK
+    telephone: 415-789-MILK
 ---

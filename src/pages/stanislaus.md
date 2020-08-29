@@ -7,7 +7,7 @@ meetings:
     notes: Meeting room is down the hallway, last room on the right.
 leaders:
   - name: Susan
-    telephone: (209) 537-1243
+    telephone: 209-537-1243
   - name: Annie
     email: violanniereed@gmail.com
 ---
