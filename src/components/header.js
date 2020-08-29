@@ -4,9 +4,16 @@ import { Link } from 'gatsby'
 import 'semantic-ui-less/semantic.less'
 
 export default class MenuHeader extends Component {
-  state = {}
+  state = {
+      californiaActive: false,
+      nevadaActive: false,
+      hawaiiActive: false
+  }
 
-  handleItemClick = (e, { name }) => this.setState({ activeItem: name })
+  handleItemClick = (e, { name }) => this.setState({ activeItem: name });
+  toggleCaliforniaClass = () => this.setState(prevState => ({ californiaActive: !prevState.californiaActive}))
+  toggleNevadaClass = () => this.setState(prevState => ({ nevadaActive: !prevState.nevadaActive}))
+  toggleHawaiiClass = () => this.setState(prevState => ({ hawaiiActive: !prevState.hawaiiActive}))
 
   render() {
     const { activeItem } = this.state
@@ -30,8 +37,11 @@ export default class MenuHeader extends Component {
           as={Link}
           to={`/resources`}
         />
-        <Dropdown item text='California'>
-          <DropdownMenu>
+        <Dropdown item
+                  text='California'
+                  className={this.state.californiaActive ? 'visible': null}
+                  onClick={this.toggleCaliforniaClass}>
+          <DropdownMenu id='foo'>
             {this.props.california.map(({ node }) => (
               <DropdownItem key={node.id}
                             as={Link}
@@ -41,7 +51,10 @@ export default class MenuHeader extends Component {
             ))}
           </DropdownMenu>
         </Dropdown>
-        <Dropdown item text='Hawaii'>
+        <Dropdown item
+                  text='Hawaii'
+                  className={this.state.hawaiiActive ? 'visible': null}
+                  onClick={this.toggleHawaiiClass}>
           <DropdownMenu>
             {this.props.hawaii.map(({ node }) => (
               <DropdownItem key={node.id} as={Link} to={node.fields.slug}>
@@ -50,7 +63,10 @@ export default class MenuHeader extends Component {
             ))}
           </DropdownMenu>
         </Dropdown>
-        <Dropdown item text='Nevada'>
+        <Dropdown item
+                  text='Nevada'
+                  className={this.state.nevadaActive ? 'visible': null}
+                  onClick={this.toggleNevadaClass}>
           <DropdownMenu>
             {this.props.nevada.map(({ node }) => (
               <DropdownItem key={node.id} as={Link} to={node.fields.slug}>
