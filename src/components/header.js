@@ -41,7 +41,7 @@ export default class MenuHeader extends Component {
                   text='California'
                   className={this.state.californiaActive ? 'visible': null}
                   onClick={this.toggleCaliforniaClass}>
-          <DropdownMenu id='foo'>
+          <DropdownMenu>
             {this.props.california.map(({ node }) => (
               <DropdownItem key={node.id}
                             as={Link}
