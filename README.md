@@ -4,7 +4,10 @@ Goals:
 - ~~Get the groups up to date to today.~~
 - ~~Format it pretty~~
 - ~~deploy~~
-- format individual pages
+- ~~format individual pages~~
+- remove stockton/lodi
+- rename santa clara county
+- page for Oahu
 - link to natomas from lll sacramento
 - make responsive
 - add search functionality
@@ -13,6 +16,3 @@ Goals:
 - favicon
 - add the map
 - Add paypal donation
-
-
-Question: need page for Oahu?

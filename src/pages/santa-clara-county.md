@@ -1,5 +1,5 @@
 ---
-group: "Santa Clara"
+group: "Santa Clara County"
 state: California
 meetings:
   - time: "4th Monday of the month, 10am-11am."
