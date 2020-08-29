@@ -5,8 +5,6 @@ Goals:
 - ~~Format it pretty~~
 - ~~deploy~~
 - ~~format individual pages~~
-- remove stockton/lodi
-- rename santa clara county
 - page for Oahu
 - link to natomas from lll sacramento
 - make responsive
