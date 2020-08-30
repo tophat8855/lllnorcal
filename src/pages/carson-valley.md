@@ -8,4 +8,4 @@ leaders:
   - name: Tara
     email: CarsonValleyLLL@gmail.com
 ---
-The La Leche League of Northern Nevada includes two groups in Northern Nevada, Carson City and Reno-Sparks.
+The La Leche League of Northern Nevada includes two groups in Northern Nevada, Carson City and [Reno-Sparks](/reno-sparks/).

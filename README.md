@@ -6,9 +6,9 @@ Goals:
 - ~~deploy~~
 - ~~format individual pages~~
 - page for Oahu
-- link to natomas from lll sacramento
-- make responsive
+- ~~link to natomas from lll sacramento~~
 - add search functionality
+- make responsive
 - Add the calendar of virtual events
 - seo
 - favicon

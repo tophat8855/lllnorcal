@@ -17,4 +17,4 @@ leaders:
     telephone: (775) 348-1593
     email: Dannashooked1@yahoo.com
 ---
-The La Leche League of Northern Nevada includes two groups in Northern Nevada: Reno-Sparks and Carson City.
+The La Leche League of Northern Nevada includes two groups in Northern Nevada: Reno-Sparks and [Carson City](/carson-valley/).

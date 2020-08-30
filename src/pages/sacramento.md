@@ -32,4 +32,4 @@ Thursday, December 17, 10:00 – 11:00 am
 
 Leaders can also be reached via our Facebook page.
 
-For mothers in or near Natomas, please visit the LLL of Natomas page.
+For mothers in or near Natomas, please visit the [LLL of Natomas page](/natomas/).
