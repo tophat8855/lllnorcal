@@ -12,10 +12,8 @@ facebook:
   name: La Leche League of San Francisco
   url: https://www.facebook.com/groups/lllsf/
 leaders:
-  - name: Nina, Lesly, Jennifer, Sarah, Shelli, Suki, or Suzanne 
+  - name: Nina, Kathryn, Jennifer, Sarah, Shelli, Suki, or Suzanne
     telephone: 415-320-8116
-  - name: Monique
-    telephone: 916-259-4759
 ---
 
 Get meeting reminders and notices of upcoming events through our [Yahoo!Group](http://groups.yahoo.com/group/LLLSF/)

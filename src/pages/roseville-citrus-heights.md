@@ -10,7 +10,6 @@ meetings:
     time: "10:00 a.m. on the first TUESDAY of each month"
     location: Sylvan Oak Library – 6700 Auburn Blvd – Citrus Heights
     notes: Special emphasis on nursing past the age of one. All are welcome. Meet in the community room, on the left after entering through the main entrance.
-
 leaders:
   - name: Maria
     telephone: 530-215-6873
