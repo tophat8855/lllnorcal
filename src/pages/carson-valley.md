@@ -2,8 +2,7 @@
 group: "Carson Valley"
 state: Nevada
 meetings:
-  - time: "10 a.m. on the 3rd Wednesday of the month"
-    location: "Please contact Tara for the location."
+  - notes: No in-person meetings at this time but feel free to contact Tara for information and help.
 leaders:
   - name: Tara
     email: CarsonValleyLLL@gmail.com
