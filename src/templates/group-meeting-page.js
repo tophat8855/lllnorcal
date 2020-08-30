@@ -86,7 +86,7 @@ export default function GroupMeetingPage({ data }) {
      <div>
       <h3>Meetings</h3>
         {post.frontmatter.meetings.map((meeting) => {
-          return (<List>
+          return (<List key={meeting.name}>
             {MeetingName(meeting.name)}
             {Time(meeting.time)}
             {Location(meeting.location)}
@@ -124,8 +124,8 @@ export default function GroupMeetingPage({ data }) {
     leaders = <div>
       {post.frontmatter.leaders.map((leader) => {
         return(
-          <List>
-            <List.Item key={leader.name.split(",")[0]}>
+          <List key={leader.name.split(",")[0]}>
+            <List.Item>
               <List.Content>
                 <List.Header>{leader.name}</List.Header>
                 {LeaderDescription(leader)}
