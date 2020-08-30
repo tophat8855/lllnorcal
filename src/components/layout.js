@@ -1,7 +1,7 @@
 import React from "react"
 import  MenuHeader from "../components/header"
 import { Image, Grid } from 'semantic-ui-react'
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 export default function Layout({ children }) {
   const data = useStaticQuery(
@@ -39,14 +39,19 @@ export default function Layout({ children }) {
         hawaii={data.allMarkdownRemark.group[1].edges}
         nevada={data.allMarkdownRemark.group[2].edges}
         />
-        <Grid centered columns={3}>
-          <Grid.Column>
-            <Image src={`/LLL-norcalhinv.jpg`} size='medium' />
-          </Grid.Column>
-          <Grid.Column>
-            {children}
-          </Grid.Column>
-        </Grid>
+      <Grid centered columns={3}>
+        <Grid.Column mobile={16} tablet={8} computer={4}>
+          <Image centered
+          as={Link}
+          to={`/`}
+          src={`/LLL-norcalhinv.jpg`}
+          size='medium'
+          />
+        </Grid.Column>
+        <Grid.Column mobile={16} tablet={8} computer={4}>
+          {children}
+        </Grid.Column>
+      </Grid>
     </div>
   )
 }
