@@ -80,7 +80,7 @@ function LeaderDescription(leader){
 
 export default function GroupMeetingPage({ data }) {
   const post = data.markdownRemark
-  let meetings, facebook, website, leaders;
+  let meetings, facebook, facebooks, website, leaders;
   if (post.frontmatter.meetings) {
      meetings =
      <div>
@@ -110,6 +110,22 @@ export default function GroupMeetingPage({ data }) {
     facebook = <div></div>
   }
 
+  if (post.frontmatter.facebooks) {
+    facebooks = <div>
+      <List key={facebook.name}>
+      {post.frontmatter.facebooks.map((facebook => {
+        return(
+            <List.Item href={facebook.url}>
+            <List.Icon name='facebook'/>
+              {facebook.name}
+            </List.Item>
+        )}))}
+      </List>
+    </div>
+  } else {
+    facebooks = <div></div>
+  }
+
   if (post.frontmatter.website) {
     website =
     <List.Item href={post.frontmatter.website.url}>
@@ -122,17 +138,18 @@ export default function GroupMeetingPage({ data }) {
 
   if (post.frontmatter.leaders) {
     leaders = <div>
-      {post.frontmatter.leaders.map((leader) => {
-        return(
-          <List key={leader.name.split(",")[0]}>
-            <List.Item>
+      <List >
+        {post.frontmatter.leaders.map((leader) => {
+          return(
+            <List.Item key={leader.name.split(",")[0]}>
               <List.Content>
                 <List.Header>{leader.name}</List.Header>
                 {LeaderDescription(leader)}
               </List.Content>
             </List.Item>
-          </List>
-        )})}
+          )
+        })}
+      </List>
       </div>
   } else {
     leaders = <div/>
@@ -160,6 +177,7 @@ export default function GroupMeetingPage({ data }) {
 
         <List>
           {website}
+          {facebooks}
           {facebook}
           {leaders}
         </List>
@@ -179,6 +197,7 @@ export const query = graphql`
         group
         state
         website {name url}
+        facebooks {name url}
         facebook {name url}
         meetings {
           name
