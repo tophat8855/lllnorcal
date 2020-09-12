@@ -15,6 +15,7 @@ module.exports = {
       options: {
         plugins: [
           'gatsby-remark-relative-linker',
+          'gatsby-remark-copy-linked-files',
         ],
       }
     },
