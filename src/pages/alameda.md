@@ -32,9 +32,9 @@ November 18 - ​The Art of Breastfeeding and Avoiding Difficulties
 
 December 9 - ​Complementary Foods and Family Nutrition
 
-**La Leche League of Alameda offers:**
+**Founded in 1964, La Leche League of Alameda offers:**
 - Monthly support meetings
 - A large lending library
 - Free telephone counseling from accredited Leaders
 - The latest breastfeeding information
-- 51 years of helping Alameda families
+- Decades of helping Alameda families
