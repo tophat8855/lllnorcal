@@ -11,6 +11,8 @@ website:
 facebooks:
   - name: La Leche League of Alameda
     url: https://www.facebook.com/LLLalameda
+  - name: La Leche League of Alameda - Breastfeeding Support
+    url: https://www.facebook.com/groups/alamedalll
 leaders:
   - name: Lauren (call or text)
     telephone: 510-592-8539
@@ -26,11 +28,11 @@ leaders:
 
 September 16 - ​Advantages of Human Milk and Breastfeeding
 
-October 21 - ​Realistic Expectations: Family and the Breastfed Baby
+October 21 - ​The Art of Breastfeeding and Avoiding Difficulties
 
-November 18 - ​The Art of Breastfeeding and Avoiding Difficulties
+November 18 - ​Complementary Foods and Family Nutrition
 
-December 9 - ​Complementary Foods and Family Nutrition
+December 9 - ​Realistic Expectations: Family and the Breastfed Baby
 
 **Founded in 1964, La Leche League of Alameda offers:**
 - Monthly support meetings
