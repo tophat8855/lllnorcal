@@ -20,7 +20,7 @@ leaders:
     telephone: 510-365-9220
 ---
 
-[Meeting Flyer](/alameda_series_meetings_fall_winter_2020.pdf)
+[Meeting Flyer](alameda_series_meetings_fall_winter_2020.pdf)
 
 **Meeting Themes**
 
