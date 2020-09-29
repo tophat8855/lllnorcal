@@ -13,6 +13,4 @@ meetings:
 leaders:
   - name: Maria
     telephone: 530-215-6873
-  - name: Monique
-    telephone: 916-259-4759
 ---

@@ -28,15 +28,9 @@ leaders:
   - name: Corby (Benicia and Vallejo) 
     email: inkedstar@sbcglobal.net
     telephone: 707-745-3932
-  - name: Kathy (Fairfield)
-    email: kathy.montemayor@hotmail.com
-    telephone: 707-428-3771
   - name: Jeanette (Vacaville, English and Español) 
     email: jeanette.panchula@sbcglobal.net
     telephone: 707-469-0705
-  - name: Caya (Vacaville- 4th Tuesday)
-    email: Caya.with.lll@gmail.com
-    telephone: 707-386-3114
   - name: Nickie (Fairfield)
     email: shebefergy@gmail.com
     telephone: 916-622-8944

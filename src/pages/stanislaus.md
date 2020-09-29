@@ -9,8 +9,6 @@ meetings:
     location: Modesto Natural Birth Place · 1608 Sunrise Ave Modesto
     notes: Meeting room is down the hallway, last room on the right.
 leaders:
-  - name: Susan
-    telephone: 209-537-1243
   - name: Annie
     email: violanniereed@gmail.com
 ---
