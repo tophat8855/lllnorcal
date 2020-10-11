@@ -6,8 +6,8 @@ facebook:
   url: https://www.facebook.com/LLLStanislaus
 meetings:
   - time: "10:30 a.m. to 12 noon on the 3rd Friday of the month."
-    location: Modesto Natural Birth Place · 1608 Sunrise Ave Modesto
-    notes: Meeting room is down the hallway, last room on the right.
+    location: Zoom. Contact us for link
+    notes: "Check the Facebook page for up-to-date meeting information. Join our text list to get updates and meeting links: https://www.remind.com/join/c9ehg94"
 leaders:
   - name: Annie
     email: violanniereed@gmail.com
