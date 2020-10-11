@@ -19,7 +19,7 @@ export default class MenuHeader extends Component {
     const { activeItem } = this.state
 
     return (
-      <Menu>
+      <Menu className='stackable'>
         <Menu.Item header as={Link} to={`/`}>
             {this.props.title}
         </Menu.Item>

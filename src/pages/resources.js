@@ -1,9 +1,11 @@
 import React from "react"
 import Layout from "../components/layout"
+import { Container } from "semantic-ui-react"
 
 export default function Resources({data}) {
   return (
     <Layout>
+      <Container>
         <h2>La Leche League Sites</h2>
 
         <div><a href="https://www.lllusa.org/">La Leche League USA</a></div>
@@ -28,6 +30,7 @@ export default function Resources({data}) {
         <div><a href="http://waba.org.my/">World Alliance for Breastfeeding Action</a></div>
         <div><a href="http://worldbreastfeedingweek.org/">World Breastfeeding Week</a></div>
         <div><a href="http://blackbreastfeedingweek.org/">Black Breastfeeding Week</a></div>
+      </Container>
     </Layout>
   )
 }
