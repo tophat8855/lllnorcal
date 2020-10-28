@@ -5,12 +5,12 @@ Goals:
 - ~~Format it pretty~~
 - ~~deploy~~
 - ~~format individual pages~~
-- page for Oahu
+- ~~page for Oahu~~
 - ~~link to natomas from lll sacramento~~
 - add search functionality
-- make responsive
+- ~~make responsive~~
 - Add the calendar of virtual events
 - seo
-- favicon
+- ~~favicon~~
 - add the map
 - Add paypal donation
