@@ -2,7 +2,7 @@
 group: "San Francisco"
 state: California
 meetings:
-  - time: "Weekly on Saturdays 10:30-11:30"
+  - time: "Weekly on Saturdays 10:30-11:30, except November 28 for the holiday weekend."
     location: Zoom
     notes: Text 415-320-8116 for meeting link and password.
 website:
