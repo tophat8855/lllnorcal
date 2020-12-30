@@ -22,18 +22,6 @@ leaders:
     telephone: 510-365-9220
 ---
 
-[Meeting Flyer](alameda_series_meetings_fall_winter_2020.pdf)
-
-**Meeting Themes**
-
-September 16 - ​Advantages of Human Milk and Breastfeeding
-
-October 21 - ​The Art of Breastfeeding and Avoiding Difficulties
-
-November 18 - ​Complementary Foods and Family Nutrition
-
-December 9 - ​Realistic Expectations: Family and the Breastfed Baby
-
 **Founded in 1964, La Leche League of Alameda offers:**
 - Monthly support meetings
 - A large lending library
