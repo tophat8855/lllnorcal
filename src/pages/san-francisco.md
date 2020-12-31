@@ -2,7 +2,7 @@
 group: "San Francisco"
 state: California
 meetings:
-  - time: "Weekly on Saturdays 10:30-11:30, except November 28 for the holiday weekend."
+  - time: "Weekly on Saturdays 10:30-11:30"
     location: Zoom
     notes: Text 415-320-8116 for meeting link and password.
 website:
@@ -12,7 +12,7 @@ facebook:
   name: La Leche League of San Francisco
   url: https://www.facebook.com/groups/lllsf/
 leaders:
-  - name: Nina, Kathryn, Jennifer, Sarah, Shelli, Suki, or Suzanne
+  - name: Nina, Kathryn, Jennifer, Mei, Sarah, Shelli, Suki, or Suzanne
     telephone: 415-320-8116
 ---
 
