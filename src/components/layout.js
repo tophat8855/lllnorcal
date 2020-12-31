@@ -39,8 +39,8 @@ export default function Layout({ children }) {
         hawaii={data.allMarkdownRemark.group[1].edges}
         nevada={data.allMarkdownRemark.group[2].edges}
         />
-      <Grid centered columns={3}>
-        <Grid.Column mobile={16} tablet={8} computer={4}>
+      <Grid centered>
+        <Grid.Column mobile={16} tablet={4} computer={4}>
           <Image centered
           as={Link}
           to={`/`}
@@ -48,7 +48,7 @@ export default function Layout({ children }) {
           size='medium'
           />
         </Grid.Column>
-        <Grid.Column mobile={16} tablet={8} computer={4}>
+        <Grid.Column mobile={16} tablet={12} computer={12}>
           {children}
         </Grid.Column>
       </Grid>
