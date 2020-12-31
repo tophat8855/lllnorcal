@@ -30,6 +30,13 @@ export default class MenuHeader extends Component {
           as={Link}
           to={`/about`}
         />
+         <Menu.Item
+          name='Map of Groups'
+          active={activeItem === 'map'}
+          onClick={this.handleItemClick}
+          as={Link}
+          to={`/map`}
+        />
         <Menu.Item
           name='resources'
           active={activeItem === 'resources'}
