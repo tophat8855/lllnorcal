@@ -8,6 +8,8 @@ export default function Home({ data }) {
       <Container>
         <p>
           There are no in-person meetings at this time. Many groups are holding virtual meetings with apps like Zoom.
+        </p>
+        <p>
           You are free to attend a virtual meeting, even if it is not your local group.
         </p>
         <div class="responsive-iframe-container big-container">

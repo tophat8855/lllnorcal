@@ -48,7 +48,7 @@ export default function Layout({ children }) {
           size='medium'
           />
         </Grid.Column>
-        <Grid.Column mobile={16} tablet={12} computer={12}>
+        <Grid.Column mobile={16} tablet={8} computer={8} style={{margin: "10px"}}>
           {children}
         </Grid.Column>
       </Grid>
