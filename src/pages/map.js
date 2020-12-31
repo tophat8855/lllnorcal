@@ -1,10 +1,15 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
 import { Container } from "semantic-ui-react"
 
 export default function Map({ data }) {
   return (
     <Layout>
+      <Helmet>
+        <title>Map of La Leche League of Northern California, Hawaii, and Northern Nevada Groups</title>
+        <meta name="description" content="A map indicating where local groups of LLL Northern California, Hawaii, and Northern Nevada are geographically."/>
+      </Helmet>
       <Container>
         <p>
           You are free to attend any meeting, even if it is not your local group.

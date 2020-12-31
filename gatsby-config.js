@@ -1,8 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `La Leche League of Northern California, Hawaii, and Nevada`,
+    title: `La Leche League of Northern California, Hawaii, and Northern Nevada`,
+    url: "http://lllnorcal.org",
+    image: "/images/LLL-norcalhinv.jpg"
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

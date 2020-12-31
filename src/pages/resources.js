@@ -1,10 +1,15 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
 import { Container } from "semantic-ui-react"
 
 export default function Resources({data}) {
   return (
     <Layout>
+      <Helmet>
+        <title>Resources related to La Leche League of Northern California, Hawaii, and Northern Nevada</title>
+        <meta name="description" content="A list of sites with information about La Leche League, breastfeeding, chestfeeding, and feeding babies and children human milk."/>
+      </Helmet>
       <Container>
         <h2>La Leche League Sites</h2>
 

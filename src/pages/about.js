@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { Container } from "semantic-ui-react"
@@ -6,6 +7,43 @@ import { Container } from "semantic-ui-react"
 export default function About({ data }) {
   return (
     <Layout>
+      <Helmet>
+        <title>About La Leche League of Northern California, Hawaii, and Northern Nevada</title>
+        <meta name="description" content="About La Leche League of Northern California, Hawaii, and Northern Nevada: what LLL does, who LLL leaders are, and who can attend meetings."/>
+        <script type="application/ld+json">
+          {`
+            {
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "url": "http://lllnorcal.org",
+              "name": "La Leche League of Northern California, Hawaii, and Northern Nevada",
+              "logo": "http://lllnorcal.org//LLL-norcalhinv.jpg",
+              "sameAs": ["https://www.facebook.com/lllnorcalhinv"]
+              "description": "La Leche League helps parents, families, and communities to breastfeed, chestfeed, and human milk feed their babies through parent-to-parent support.",
+              "hasMap": "https://www.google.com/maps/d/u/0/edit?mid=1hyxawH8A-eXKT-c06gIH5tSyNQk&ll=29.54441943791395%2C-139.5863947&z=5",
+              "location": [
+                {"@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "USA",
+                  "addressRegion": "California"
+                }},
+                {"@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "USA",
+                  "addressRegion": "Hawaii"
+                }},
+                {"@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "USA",
+                  "addressRegion": "Nevada"
+                }}]
+              }
+          `}
+        </script>
+      </Helmet>
       <Container>
         <h1>About {data.site.siteMetadata.title}</h1>
         <h3>

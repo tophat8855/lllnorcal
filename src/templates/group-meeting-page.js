@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { Card, List } from "semantic-ui-react";
@@ -157,6 +158,26 @@ export default function GroupMeetingPage({ data }) {
 
   return (
     <Layout>
+    <Helmet
+      meta={[
+        {
+          name: `description`,
+          content: "Meeting schedules and LLL Leader contact information for La Leche League of " + post.frontmatter.group + " for pregnancy, breastfeeding, chest-feeding, and infant feeding of human milk support.",
+        },
+        {
+          property: `og:title`,
+          content: "La Leche League of" + post.frontmatter.group
+        },
+        {
+          property: `og:description`,
+          content: "Meeting schedules and LLL Leader contact information for La Leche League of " + post.frontmatter.group + " for pregnancy, breastfeeding, chest-feeding, and infant feeding of human milk support.",
+        }
+      ]
+      }>
+      <title>
+        La Leche League of {post.frontmatter.group}
+      </title>
+    </Helmet>
       <Card fluid color='orange'>
         <Card.Content>
           <Card.Header>
