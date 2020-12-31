@@ -6,10 +6,10 @@ Goals:
 - ~~deploy~~
 - ~~format individual pages~~
 - ~~link to natomas from lll sacramento~~
-- add search functionality
+- ~~add search functionality [DEEMED UNNECESSARY]~~
 - ~~make responsive~~
-- Add the calendar of virtual events
-- seo
+- ~~Add the calendar of virtual events~~
+- ~~seo~~
 - ~~favicon~~
-- add the map
+- ~~add the map~~
 - Add paypal donation
