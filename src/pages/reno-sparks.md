@@ -2,12 +2,9 @@
 group: "Reno-Sparks"
 state: Nevada
 meetings:
-  - name: Day Meeting
-    time: "12:30-1:30 on the 2nd Thursday of each month"
-    location: Northwest Reno Library, 2325 Robb Dr., Reno, NV 89523
   - name: Evening Meeting
-    time: "5-6pm. on the 4th Thursday of each month"
-    location: Biggest Little Baby 7693 S Virginia St. Reno, NV. This is a cafe-style meeting.
+    time: "8pm on the 1st and 3rd Thursdays of every month"
+    location: Zoom. Contact a leader for link information.
 facebook:
   name: LLL Sierra Nevada/Reno
   url: https://www.facebook.com/LLLReno.Sparks/

@@ -5,20 +5,19 @@ meetings:
   - name: Fairfield Meeting
     time: "7PM-8:30PM on the 4th Wednesday of the month"
     location: Online
-    notes: Contact Nickie for link.
+    notes: Contact Nickie for link
   - name: Vallejo/Benicia Meeting
     time: "10 a.m. on the 1st Wednesday of the month"
     location: Zoom
-    notes: Email Corby at inkedstar@sbcglobal.net for link.
-  - name: Vacaville Nighttime
-    time: "7:00 – 8:30 p.m. on the 2nd Tuesday of the month"
-    location: 136 Saybrook Avenue Vacaville, CA 
+    notes: Email Corby for link
   - name: Vacaville Evening
-    time: "6:00 p.m. on the 4th Tuesday of the month"
-    location: Vacaville WIC Clinic, 1119 E. Monte Vista Ave., 2nd floor – Elevator available; open to the public, not just WIC recipients
+    time: "7-8:30pm, 2nd Tuesday of the month"
+    location: Zoom
+    notes: Email Jeanette for link
   - name: Vacaville Morning
-    time: "call Becca McCarthy for location and time"
-    location: Vacaville
+    time: 10am on the first Tuesday of the month
+    location: Zoom
+    notes: Email Becca McCarthy for link
 facebook: 
   name: La Leche League of Solano County
   url: https://www.facebook.com/Solano-County-La-Leche-League-105824299459800
