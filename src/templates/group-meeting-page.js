@@ -81,7 +81,7 @@ function LeaderDescription(leader){
 
 export default function GroupMeetingPage({ data }) {
   const post = data.markdownRemark
-  let meetings, facebook, facebooks, website, leaders;
+  let meetings, facebook, facebooks, instagram, website, leaders;
   if (post.frontmatter.meetings) {
      meetings =
      <div>
@@ -106,7 +106,7 @@ export default function GroupMeetingPage({ data }) {
     <List.Item href={post.frontmatter.facebook.url}>
       <List.Icon name='facebook'/>
         {post.frontmatter.facebook.name}
-      </List.Item>
+    </List.Item>
   } else {
     facebook = <div></div>
   }
@@ -125,6 +125,16 @@ export default function GroupMeetingPage({ data }) {
     </div>
   } else {
     facebooks = <div></div>
+  }
+
+  if (post.frontmatter.instagram) {
+    instagram =
+    <List.Item href={"https://www.instagram.com/" + post.frontmatter.instagram}>
+      <List.Icon name='instagram'/>
+        {post.frontmatter.instagram}
+    </List.Item>
+  } else {
+    instagram = <div></div>
   }
 
   if (post.frontmatter.website) {
@@ -200,6 +210,7 @@ export default function GroupMeetingPage({ data }) {
           {website}
           {facebooks}
           {facebook}
+          {instagram}
           {leaders}
         </List>
 
@@ -220,6 +231,7 @@ export const query = graphql`
         website {name url}
         facebooks {name url}
         facebook {name url}
+        instagram
         meetings {
           name
           location
