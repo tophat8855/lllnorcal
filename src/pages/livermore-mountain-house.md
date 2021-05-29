@@ -4,8 +4,7 @@ state: California
 meetings:
   - name: Mountain House Meetings
     time: "10am-11:30am First Monday of the Month"
-    location: 704 W La Canada Ave, Mountain House, CA 95391
-    notes: This space is in a residential neighborhood. Please do not park near anyone’s driveway. There is an ample strip along which to park on Hancock Park Dr.
+    location: Online, email Teri for link
 facebook: 
   name: La Leche League of Livermore & Mountain House
   url: http://www.facebook.com/groups/LLLofLivermore/
