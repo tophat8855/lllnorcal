@@ -2,7 +2,7 @@
 group: "Kauai - Princeville"
 state: Hawaii
 meetings:
-  - notes: No current in-person meetings.
+  - notes: No current in-person meetings. Contact a leader for assistance.
 leaders:
   - name: Mele
     telephone: 808-826-6467

@@ -2,8 +2,7 @@
 group: "Red Bluff"
 state: California
 meetings:
-  - time: "11 a.m on the 2nd Thursday of the month"
-    location: Sunrise Bible Fellowship · 956 Jackson Street
+  - time: No in-person meetings at this time. Contact a leader for support.
 leaders:
   - name: D’Lorah
     telephone: 530-526-6818

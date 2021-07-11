@@ -2,8 +2,7 @@
 group: "Santa Rosa"
 state: California
 meetings:
-  - time: "10:30 a.m. on the 1st Friday of the month"
-    location: Women’s Health and Birth Center, 583 Summerfield Road, Santa Rosa
+  - time: No in-person meetings at this time. Contact the referral line for support.
 leaders:
   - name: LLL Sonoma County’s Referral Line
     telephone: 707-523-8697

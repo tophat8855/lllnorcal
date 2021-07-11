@@ -2,7 +2,7 @@
 group: "Elk Grove"
 state: California
 meetings:
-  - notes: There are no current meetings.
+  - notes: There are no current meetings. Contact a leader for help nursing.
 leaders:
   - name: Carolina 
     email: lllcarolinajones@gmail.com

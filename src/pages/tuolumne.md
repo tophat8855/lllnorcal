@@ -2,8 +2,7 @@
 group: "Tuolumne County"
 state: California
 meetings:
-  - time: "10 a.m. on the 2nd Friday of the month"
-    location: Tuolumne County Library Meeting Room · 480 Greenley Road in Sonora
+  - time: No in-person meetings at this time. Contact a leader for support.
 facebook:
   name: La Leche League of Tuolumne County
   url: https://www.facebook.com/LaLecheLeagueofTuolumneCounty
