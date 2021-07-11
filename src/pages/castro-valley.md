@@ -13,4 +13,4 @@ leaders:
     email: LLLofCVSL@gmail.com
     telephone: 510-342-3797
 ---
-Feel free to call anytime for breastfeeding support or meeting questions. Your call will go to voicemail. Please leave the details of your question. Your call will be returned as quickly as possible.
+Feel free to call anytime for nursing support or meeting questions. Your call will go to voicemail. Please leave the details of your question. Your call will be returned as quickly as possible.

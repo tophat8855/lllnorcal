@@ -4,7 +4,7 @@ state: California
 meetings:
   - time: "First Saturday of the month 10am"
     location: "Zoom Link from the Facebook Group"
-    notes: Just as with our in person meetings we will begin with a short introduction from our leaders and then go round robin discussing breastfeeding questions, issues, triumphs, and more! We welcome breastfeeding parents, partners, babies, etc. and anyone who wishes to support breastfeeding.
+    notes: Just as with our in person meetings we will begin with a short introduction from our leaders and then go round robin discussing breastfeeding and chestfeeding questions, issues, triumphs, and more! We welcome nursing parents, partners, babies, etc. and anyone who wishes to support breast- and chestfeeding.
 facebook:
   name: LLL of East Bay
   url: https://www.facebook.com/groups/LLLofEastBay/
@@ -14,4 +14,4 @@ leaders:
   - name: Natalie
     telephone: 415-633-6441
 ---
-If you are interested in asking questions of leaders and local mothers, or to share breastfeeding-related experiences and tips, join the [Facebook Page](https://www.facebook.com/groups/LLLofEastBay/).
+If you are interested in asking questions of leaders and local mothers, or to share breastfeeding- or chestfeeding-related experiences and tips, join the [Facebook Page](https://www.facebook.com/groups/LLLofEastBay/).

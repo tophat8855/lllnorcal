@@ -13,6 +13,6 @@ leaders:
 ---
 Lending Library
 
-Available at each meeting is an excellent library containing books on breastfeeding, pregnancy, birth, nutrition, and parenting. Our manual, THE WOMANLY ART OF BREASTFEEDING, is available to borrow or purchase.
+Available at each meeting is an excellent library containing books on nursing, pregnancy, birth, nutrition, and parenting. Our manual, THE WOMANLY ART OF BREASTFEEDING, is available to borrow or purchase.
 
 Our Facebook group is a “closed group” for privacy reasons.  Please request to join, and we will approve you.

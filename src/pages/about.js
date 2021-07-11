@@ -75,7 +75,7 @@ export default function About({ data }) {
         </p>
 
         <p>
-          La Leche League International is an international, nonprofit, nonsectarian organization dedicated to providing support, encouragement, information, and education to families who want to breastfeed. All people interested in breastfeeding and chestfeeding are encouraged to attend group meetings or to call a leader for help. We also provide health care professionals with continuing education opportunities.
+          La Leche League International is an international, nonprofit, nonsectarian organization dedicated to providing support, encouragement, information, and education to families who want to breastfeed or chestfeed. All people interested in breastfeeding and chestfeeding are encouraged to attend group meetings or to call a leader for help. We also provide health care professionals with continuing education opportunities.
         </p>
       </Container>
     </Layout>
