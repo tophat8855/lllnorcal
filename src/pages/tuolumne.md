@@ -9,7 +9,4 @@ facebook:
 leaders:
   - name: Toni
     telephone: 209-591-3634
-  - name: April
-    telephone: 209-981-3578
-    email: LaLecheLeagueofTC@gmail.com
 ---

@@ -15,7 +15,7 @@ facebook:
   name: La Leche League of Fresno
   url: https://www.facebook.com/La-Leche-League-of-Fresno-268532926524698/
 leaders:
-  - name: Anne, Jenny, Diane, Maire, and Sue
+  - name: Anne, Jenny, Diane, and Sue
     email: llloffresno@gmail.com
     telephone: 559-426-5553
 ---
