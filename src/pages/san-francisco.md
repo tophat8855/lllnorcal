@@ -15,5 +15,3 @@ leaders:
   - name: Nina, Kathryn, Jennifer, Mei, Sarah, Shelli, Suki, Gul, or Uyen
     telephone: 415-320-8116
 ---
-
-Get meeting reminders and notices of upcoming events through our [Yahoo!Group](http://groups.yahoo.com/group/LLLSF/)
