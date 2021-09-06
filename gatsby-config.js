@@ -4,6 +4,7 @@ module.exports = {
     url: "http://lllnorcal.org",
     image: "/images/LLL-norcalhinv.jpg"
   },
+  pathPrefix: "/lllnorcal",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
