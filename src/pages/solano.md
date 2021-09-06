@@ -6,10 +6,6 @@ meetings:
     time: "7PM-8:30PM on the 4th Wednesday of the month"
     location: Online
     notes: Contact Nickie for link
-  - name: Vallejo/Benicia Meeting
-    time: "10 a.m. on the 1st Wednesday of the month"
-    location: Zoom
-    notes: Email Corby for link
   - name: Vacaville Evening
     time: "7-8:30pm, 2nd Tuesday of the month"
     location: Zoom
@@ -28,9 +24,6 @@ leaders:
   - name: Becca McCarthy (Vacaville)
     email: Becca_McCarthy@yahoo.com
     telephone: 707-628-1463
-  - name: Corby (Benicia and Vallejo) 
-    email: inkedstar@sbcglobal.net
-    telephone: 707-745-3932
   - name: Jeanette (Vacaville, English and Español) 
     email: jeanette.panchula@sbcglobal.net
     telephone: 707-469-0705
