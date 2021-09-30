@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import { Container } from "semantic-ui-react"
+import { Container, List } from "semantic-ui-react"
 
 export default function About({ data }) {
   return (
@@ -75,8 +75,29 @@ export default function About({ data }) {
         </p>
 
         <p>
-          La Leche League International is an international, nonprofit, nonsectarian organization dedicated to providing support, encouragement, information, and education to families who want to breastfeed or chestfeed. All people interested in breastfeeding and chestfeeding are encouraged to attend group meetings or to call a leader for help. We also provide health care professionals with continuing education opportunities.
+          La Leche League International is an international, nonprofit, nonsectarian organization 
+          dedicated to providing support, encouragement, information, and education to families who 
+          want to breastfeed or chestfeed. All people interested in breastfeeding and chestfeeding are 
+          encouraged to attend group meetings or to call a leader for help. We also provide health care
+          professionals with continuing education opportunities.
         </p>
+
+        <h3>
+          Contact
+        </h3>
+
+        <List.Content>
+          <List.List>
+            <List.Item href={"mailto: acl@lllnorcal.org"}>
+              <List.Icon name='mail outline'/>
+              <List.Content>Email the ACL</List.Content>
+            </List.Item>
+            <List.Item href={"mailto: webadmin@lllnorcal.org"}>
+              <List.Icon name='mail outline'/>
+              <List.Content>Email the webadmin</List.Content>
+            </List.Item>
+          </List.List>
+        </List.Content>
       </Container>
     </Layout>
   )
