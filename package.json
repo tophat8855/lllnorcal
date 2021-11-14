@@ -11,8 +11,9 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "add-domain": "echo \"lllnorcal.org\" > public/CNAME",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
+    "deploy": "gatsby build && npm run add-domain && gh-pages -d public -b gh-pages"
   },
   "dependencies": {
     "@emotion/core": "^10.0.35",
