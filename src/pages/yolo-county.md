@@ -1,5 +1,5 @@
 ---
-group: "Davis"
+group: "Yolo County"
 state: California
 meetings:
   - notes: No meetings at this time. 
