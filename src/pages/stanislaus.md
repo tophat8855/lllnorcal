@@ -8,7 +8,4 @@ meetings:
   - time: "10:30 a.m. to 12 noon on the 2nd Saturday of the month."
     location: Zoom. Contact us for link
     notes: "Check the Facebook page for up-to-date meeting information. Join our text list to get updates and meeting links: https://www.remind.com/join/c9ehg94"
-leaders:
-  - name: Annie
-    email: violanniereed@gmail.com
 ---
