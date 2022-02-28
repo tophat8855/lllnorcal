@@ -19,4 +19,3 @@ leaders:
     telephone: 415-940-1381
     email: BrittanyEOC@me.com
 ---
-The La Leche League of Northern Nevada includes two groups in Northern Nevada: Reno-Sparks and [Carson City](/carson-valley/).
