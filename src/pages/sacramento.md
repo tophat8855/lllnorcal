@@ -2,9 +2,9 @@
 group: "Sacramento"
 state: California
 meetings:
-  - name: On Zoom for the rest of 2020
+  - name: On Zoom and in-person for the time being and subject to change
     time: "On the second Tuesday and third Thursdays of the month"
-    location: Zoom
+    location: Zoom and Outdoors in-person
 facebook: 
   name: Greater Sacramento La Leche League
   url: https://www.facebook.com/groups/282951872936/
@@ -12,24 +12,24 @@ leaders:
   - name: La Leche League Sacramento Leaders
     email: LaLecheSac@gmail.com
 ---
-Upcoming meeting dates and times:
+Upcoming meeting dates and times for summer 2022:
 
-Tuesday, September 8, 6:00 – 7:00 pm
+Tuesday, May 10, 6:00 – 7:00 pm
 
-Thursday, September 17, 10:00 – 11:00am 
+Thursday, May 19, 10:00 – 11:00 am
 
-Tuesday, October 13, 6:00 – 7:00 pm
+Tuesday, June 14, 6:00 – 7:00 pm
 
-Thursday, October 15, 10:00 – 11:00 am 
+Thursday, June 16, 10:00 – 11:00 am
 
-Tuesday, November 10, 6:00 – 7:00 pm
+Tuesday, July 12, 6:00 – 7:00 pm
 
-Thursday, November 19, 10:00 – 11:00 am
+Thursday, July 21, 10:00 – 11:00 am
 
-Tuesday, December 8, 6:00 – 7:00 pm
+Tuesday, August 9, 6:00 – 7:00 pm
 
-Thursday, December 17, 10:00 – 11:00 am 
+Thursday, August 18, 10:00 – 11:00 am
 
-Leaders can also be reached via our Facebook page.
+Email us or contact us through our FB group for meeting links. Leaders can also be reached via our Facebook page.
 
 For mothers in or near Natomas, please visit the [LLL of Natomas page](/natomas/).

@@ -2,9 +2,12 @@
 group: "Reno-Sparks"
 state: Nevada
 meetings:
-  - name: Evening Meeting
-    time: "8pm on the 1st and 3rd Thursdays of every month"
-    location: Zoom. Contact a leader for link information.
+  - name: Meeting
+    time: "1st Thursday 10am"
+    location: Biggest Little Baby 7693 S. Virginia St.
+  - name: Park Day
+    time: "3rd Thursday 10am"
+    location: Contact a leader for the park location
 facebook:
   name: LLL Sierra Nevada/Reno
   url: https://www.facebook.com/LLLReno.Sparks/
@@ -13,7 +16,6 @@ leaders:
     telephone: (805) 798-4110
     email: mclemore.jessica@gmail.com
   - name: Danna
-    telephone: (775) 348-1593
     email: Dannashooked1@yahoo.com
   - name: Brittany
     telephone: 415-940-1381
