@@ -71,15 +71,28 @@ export default function About({ data }) {
         </h3>
 
         <p>
-          La Leche League of Northern California, Nevada, and Hawaii is contained within LLL USA.
+          La Leche League of Northern California, Hawaii, and Northern Nevada is contained within LLL USA.
         </p>
 
+        <h4> Our Mission </h4>
         <p>
-          La Leche League International is an international, nonprofit, nonsectarian organization 
-          dedicated to providing support, encouragement, information, and education to families who 
-          want to breastfeed or chestfeed. All people interested in breastfeeding and chestfeeding are 
-          encouraged to attend group meetings or to call a leader for help. We also provide health care
-          professionals with continuing education opportunities.
+          La Leche League of Northern California, Hawaii, and Northern Nevada helps parents,
+          families, and communities to breastfeed, chestfeed, and human milk feed their babies
+          through parent-to-parent support. We encourage, inform, educate, support, and promote
+          the use of human milk and the intimate relationship and development that comes from
+          nursing a child for as long as mutually desired.
+        </p>
+
+        <h4> Our Commitment </h4>
+
+        <p>
+          La Leche League of Northern California, Hawaii, and Northern Nevada is committed
+          to diversity and inclusion. We support all breastfeeding, chestfeeding, and human
+          milk feeding families, inclusive of their race, ethnicity, immigration status,
+          national origin, creed, age, sexual orientation, gender identity, family structure,
+          primary language, ability, or socio-economic status. LLL of Northern California, Hawaii,
+          and Northern Nevada fosters diversity among its Leaders so as to incorporate a wide
+          variety of perspectives and responsible decision-making.
         </p>
 
         <h3>
