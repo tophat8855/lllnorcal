@@ -14,4 +14,4 @@ leaders:
   - name: Natalie
     telephone: 415-633-6441
 ---
-If you are interested in asking questions of leaders and local mothers, or to share breastfeeding- or chestfeeding-related experiences and tips, join the [Facebook Page](https://www.facebook.com/groups/LLLofEastBay/).
+If you are interested in asking questions of leaders and local families, or to share breastfeeding- or chestfeeding-related experiences and tips, join the [Facebook Page](https://www.facebook.com/groups/LLLofEastBay/).

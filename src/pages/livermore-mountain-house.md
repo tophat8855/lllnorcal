@@ -17,6 +17,6 @@ NOTE: Please RSVP on our our Facebook page if you are planning on attending our 
 
 RSVPs are strongly encouraged that so if cancellation is necessary, attendees can be notified.
 
-We have a very active Facebook community that mothers can also join. At this time, our chapter has a very limited availability to provide home visits. We are happy to assist mothers by phone, email, Facebook, and at our monthly meetings.
+We have a very active Facebook community that families can also join. At this time, our chapter has a very limited availability to provide home visits. We are happy to assist families by phone, email, Facebook, and at our monthly meetings.
 
 [Donate to La Leche League of Livermore/Mtn House using PayPal.Me](https://www.paypal.me/mountainhouselll)

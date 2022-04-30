@@ -12,4 +12,4 @@ leaders:
   - name: Erin
     telephone: 510-289-5807
 ---
-If you are interested in asking questions of leaders and local mothers, or to share breastfeeding- or chestfeeding-related experiences and tips, join the [Facebook Page](https://www.facebook.com/groups/LLLofEastBay/).
+If you are interested in asking questions of leaders and local families, or to share breastfeeding- or chestfeeding-related experiences and tips, join the [Facebook Page](https://www.facebook.com/groups/LLLofEastBay/).

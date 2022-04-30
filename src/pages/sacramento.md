@@ -32,4 +32,4 @@ Thursday, August 18, 10:00 – 11:00 am
 
 Email us or contact us through our FB group for meeting links. Leaders can also be reached via our Facebook page.
 
-For mothers in or near Natomas, please visit the [LLL of Natomas page](/natomas/).
+For families in or near Natomas, please visit the [LLL of Natomas page](/natomas/).
