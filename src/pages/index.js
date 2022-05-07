@@ -14,15 +14,32 @@ export default function Home({ data }) {
         <h2>
           Welcome
         </h2>
+
+        <h3>2022 Virtual Breastmilk Drive for Mother's Milk Bank San Jose</h3>
+
         <p>
-          There are no in-person meetings at this time. Many groups are holding virtual meetings with apps like Zoom.
+          Breast milk donation fulfills an important role in keeping babies healthy and thriving.
+          YOU can save a life by donating your breast milk to the Mothers’ Milk Bank!
         </p>
+
         <p>
-          You are free to attend a virtual meeting, even if it is not your local group.
+          Sign up by filling out the screening questionnaire on their website: 
         </p>
+
+        <p>
+          <a href="https://mothersmilk.org/donate-milk">https://mothersmilk.org/donate-milk</a>
+        </p>
+
+        <p>
+          All costs of donation are covered by the Mothers’ Milk Bank.  Be sure to mention La Leche League when you donate!
+        </p>
+
+        <h3>Support</h3>
+
         <p>
           LLL meetings are always free, but we appreciate any donations to support us as we help families in California, Hawaii, and Nevada.
         </p>
+
         <div>LLL of Northern California, Hawaii, and Nevada is a 501(c)3 non-profit. Donations are tax-deductible. EIN 94-2409750.</div>
         <form action="https://www.paypal.com/donate" method="post" target="_top">
           <input type="hidden" name="hosted_button_id" value="2ZLTMQLPT2JVA" />
