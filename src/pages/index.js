@@ -1,7 +1,11 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
-import { Container } from "semantic-ui-react"
+import { Container, Grid } from "semantic-ui-react"
+import English from "../assets/english.png"
+import Russian from "../assets/russian.png"
+import Spanish from "../assets/spanish.png"
+import Vietnamese from "../assets/vietnamese.png"
 
 export default function Home({ data }) {
   return (
@@ -34,6 +38,26 @@ export default function Home({ data }) {
           All costs of donation are covered by the Mothers’ Milk Bank.  Be sure to mention La Leche League when you donate!
         </p>
 
+        <Grid class="ui celled">
+          <div class="row">
+            <div class="eight wide column">
+              <img src={English}></img>
+            </div>
+            <div class="eight wide column">
+              <img src={Spanish}></img>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="eight wide column">
+              <img src={Russian}></img>
+            </div>
+            <div class="eight wide column">
+              <img src={Vietnamese}></img>
+            </div>
+          </div>
+        </Grid>
+
         <h3>Support</h3>
 
         <p>
@@ -46,12 +70,6 @@ export default function Home({ data }) {
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
           <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
         </form>
-        <div class="responsive-iframe-container big-container">
-        <iframe src="https://calendar.google.com/calendar/embed?src=as9e5soor784aj4aoiqeimtckc%40group.calendar.google.com&ctz=America%2FLos_Angeles" width="800" height="600" title="Calendar of LLL Meetings" frameborder="0" scrolling="no"></iframe>
-        </div>
-        <div class="responsive-iframe-container small-container">
-        <iframe src="https://calendar.google.com/calendar/embed?src=as9e5soor784aj4aoiqeimtckc%40group.calendar.google.com&ctz=America%2FLos_Angeles&amp;mode=AGENDA" width="800" height="600" title="Calendar of LLL Meetings" frameborder="0" scrolling="no"></iframe>
-        </div>
       </Container>
     </Layout>
   )
