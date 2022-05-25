@@ -2,7 +2,8 @@
 group: "Maui"
 state: Hawaii
 meetings:
-  - notes: Meetings are suspended until March 2021. Leader is available via email for free support and encouragement.
+  - time: "Every fourth Saturday of Each Month"
+    location: RSVP to Mary Jane for location and details
 leaders:
   - name: Mary Jane
     email: mauidoula@hotmail.com
