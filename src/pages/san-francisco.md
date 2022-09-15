@@ -12,6 +12,6 @@ facebook:
   name: La Leche League of San Francisco
   url: https://www.facebook.com/groups/lllsf/
 leaders:
-  - name: Kathryn, Mei, Sarah, Shelli, Suki, Gul, or Uyen
+  - name: Sarah, Shelli, Gul, or Uyen
     telephone: 415-320-8116
 ---
