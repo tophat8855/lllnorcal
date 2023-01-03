@@ -14,8 +14,9 @@ facebooks:
   - name: La Leche League of Alameda - Breastfeeding Support
     url: https://www.facebook.com/groups/alamedalll
 leaders:
-  - name: Lauren (call or text)
+  - name: Helpline (voicemail, text, or email)
     telephone: 510-592-8539
+    email: LLLofAlameda@gmail.com
   - name: Virginia (call only)
     telephone: 510-521-4867
   - name: Brittany (text only)
