@@ -3,7 +3,7 @@ group: "Solano County"
 state: California
 meetings:
   - name: Fairfield Meeting
-    time: "7PM-8:30PM on the 4th Wednesday of the month"
+    time: "10AM-11:30AM on the 4th Saturday of the month"
     location: Online
     notes: Contact Nickie for link
   - name: Vacaville Evening
