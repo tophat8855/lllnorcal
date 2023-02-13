@@ -15,7 +15,7 @@ facebook:
   url: https://www.facebook.com/Solano-County-La-Leche-League-105824299459800
 leaders:
   - name: Nickie (Fairfield)
-    email: shebefergy@gmail.com
+    email: nickie.with.lll@gmail.com
     telephone: 916-622-8944
   - name: Jeanette (Vacaville, English and Español) 
     email: jeanette.panchula@sbcglobal.net
