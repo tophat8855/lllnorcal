@@ -1,11 +1,7 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
-import { Container, Grid } from "semantic-ui-react"
-import English from "../assets/english.png"
-import Russian from "../assets/russian.png"
-import Spanish from "../assets/spanish.png"
-import Vietnamese from "../assets/vietnamese.png"
+import { Container } from "semantic-ui-react"
 
 export default function Home({ data }) {
   return (
@@ -18,45 +14,6 @@ export default function Home({ data }) {
         <h2>
           Welcome
         </h2>
-
-        <h3>2022 Virtual Breastmilk Drive for Mother's Milk Bank San Jose</h3>
-
-        <p>
-          Breast milk donation fulfills an important role in keeping babies healthy and thriving.
-          YOU can save a life by donating your breast milk to the Mothers’ Milk Bank!
-        </p>
-
-        <p>
-          Sign up by filling out the screening questionnaire on their website: 
-        </p>
-
-        <p>
-          <a href="https://mothersmilk.org/donate-milk">https://mothersmilk.org/donate-milk</a>
-        </p>
-
-        <p>
-          All costs of donation are covered by the Mothers’ Milk Bank.  Be sure to mention La Leche League when you donate!
-        </p>
-
-        <Grid class="ui celled">
-          <div class="row">
-            <div class="eight wide column">
-              <img src={English}></img>
-            </div>
-            <div class="eight wide column">
-              <img src={Spanish}></img>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="eight wide column">
-              <img src={Russian}></img>
-            </div>
-            <div class="eight wide column">
-              <img src={Vietnamese}></img>
-            </div>
-          </div>
-        </Grid>
 
         <h3>Support</h3>
 
