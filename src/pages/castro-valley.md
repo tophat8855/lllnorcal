@@ -2,7 +2,7 @@
 group: "Castro Valley and San Leandro"
 state: California
 meetings:
-  - time: "Weekly on Wednesdays 10am-11:30am"
+  - time: "Monthly on the 2nd Friday of the month 10am-11:30am"
     location: Main Library in San Leandro (300 Estudillo Avenue)
     notes: Email us at LLLofCVSL@gmail.com for link to join or visit the Facebook group.
 facebook:
@@ -11,6 +11,5 @@ facebook:
 leaders:
   - name: Jennifer
     email: LLLofCVSL@gmail.com
-    telephone: 510-342-3797
   - name: Leilani
 ---
