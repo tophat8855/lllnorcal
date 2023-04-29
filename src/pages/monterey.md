@@ -7,6 +7,14 @@ facebook:
 meetings:
   - name: Weekend Meeting
     notes: Contact the Help Line for assistance.
+  - name: Salinas Group, en español
+    time: "4:00pm on the 1st Monday of each month"
+    location: "632 Alisal St. Salinas, CA 93905"
+    notes: En español, Spanish speaking
+  - name: Soledad Group, en español
+    time: "3:00pm on the 3rd Friday of each month"
+    location: 355 Gabilan Dr., Soledad, CA 93905
+    notes: En español, Spanish speaking
 leaders:
   - name: Help Line
     telephone: 831-373-0555
