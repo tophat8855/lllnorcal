@@ -3,10 +3,10 @@ group: "Reno-Sparks"
 state: Nevada
 meetings:
   - name: Meeting
-    time: "1st Thursday 10am"
+    time: "1st Thursday 12pm"
     location: Biggest Little Baby 7693 S. Virginia St.
   - name: Park Day
-    time: "3rd Thursday 10am"
+    time: "3rd Thursday 12pm"
     location: Contact a leader for the park location
 facebook:
   name: LLL Sierra Nevada/Reno
