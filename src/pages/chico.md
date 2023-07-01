@@ -10,7 +10,7 @@ facebook:
   name: La Leche League of Chico
   url: https://www.facebook.com/groups/LLLofChico
 leaders:
-  - name: Shanna, Maureen, Rachel, Lauren, and Kate
+  - name: Shanna, Maureen, Rachel, and Kate
     telephone: 530-487-4109
     email: lllofchico@gmail.com
 ---

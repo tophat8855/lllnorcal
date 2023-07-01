@@ -10,6 +10,6 @@ facebook:
   name: La Leche League of San Francisco
   url: https://www.facebook.com/groups/lllsf/
 leaders:
-  - name: Shelli, Gul, or Uyen
+  - name: Shelli, Julie, or Uyen
     telephone: 415-320-8116
 ---
