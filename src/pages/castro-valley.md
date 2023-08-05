@@ -9,7 +9,7 @@ facebook:
   name: La Leche League of Castro Valley & San Leandro
   url: https://www.facebook.com/groups/LLLCastroValleySanLeandro
 leaders:
-  - name: Jennifer
+  - name: Jennifer (English)
+  - name: Leilani (Vietnamese and English)
     email: LLLofCVSL@gmail.com
-  - name: Leilani
 ---

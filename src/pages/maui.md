@@ -6,5 +6,4 @@ meetings:
     location: RSVP to Mary Jane for location and details
 leaders:
   - name: Mary Jane
-    email: mauidoula@hotmail.com
 ---
