@@ -15,5 +15,4 @@ instagram: lalecheleaguehawaii
 leaders:
   - name: Mari
     email: lllofoahu@gmail.com
-    telephone: 808-208-4719
 ---
