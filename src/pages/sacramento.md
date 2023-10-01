@@ -3,7 +3,7 @@ group: "Sacramento"
 state: California
 meetings:
   - name: On Zoom and in-person for the time being and subject to change
-    time: "On the second Tuesday at 7pm and third Thursdays at 10am of the month"
+    time: "On the second Tuesday at 6pm on Zoom and third Thursdays at 10am of the month"
     location: Zoom and Outdoors in-person
 facebook: 
   name: Greater Sacramento La Leche League
