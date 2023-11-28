@@ -2,7 +2,8 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import { Container, List } from "semantic-ui-react"
+import { Container, List, Grid } from "semantic-ui-react"
+import BecomeLeader from "../assets/becomeleader2.png"
 
 export default function About({ data }) {
   return (
@@ -55,17 +56,28 @@ export default function About({ data }) {
           to attend group meetings regardless of membership status. Babies are always welcome.
         </p>
 
-        <h3>
-          About the Leaders
-        </h3>
+        <Grid class="ui celled">
+          <div class="row stackable">
+            <div class="eight wide column"> 
+              <h3>
+                About the Leaders
+              </h3>
 
-        <p>
-          La Leche League Leaders are experienced parents who have nursed their own babies 
-          and who have been trained and accredited by La Leche League International.
-          Leaders can help parents and parents-to-be with questions or concerns about nursing their infants/toddlers. 
-          If you would like help, please contact a La Leche League leader in your community.
-        </p>
+              <p>
+                La Leche League Leaders are experienced parents who have nursed their own babies 
+                and who have been trained and accredited by La Leche League International.
+                Leaders can help parents and parents-to-be with questions or concerns about nursing their infants/toddlers. 
+                If you would like help, please contact a La Leche League leader in your community.
+              </p>
+            </div>
 
+            <div class="eight wide column"> 
+              <a href="https://lllusa.org/interested-in-becoming-a-leader/" alt="Become a La Leche League leader">
+                <img src={BecomeLeader} />
+              </a>
+            </div>
+          </div>
+        </Grid>
         <h3>
           About the Organization
         </h3>

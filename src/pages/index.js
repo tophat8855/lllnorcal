@@ -2,6 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
 import { Container } from "semantic-ui-react"
+import BecomeLeader from "../assets/becomeleader.png"
 
 export default function Home({ data }) {
   return (
@@ -14,6 +15,12 @@ export default function Home({ data }) {
         <h2>
           Welcome
         </h2>
+
+        <div class="row">
+          <a href="https://lllusa.org/interested-in-becoming-a-leader/" alt="Become a La Leche League leader">
+            <img src={BecomeLeader} style={{maxWidth: "400px"}} />
+          </a>
+        </div>
 
         <h3>Support</h3>
 
