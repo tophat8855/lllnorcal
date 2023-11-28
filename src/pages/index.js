@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
 import { Container } from "semantic-ui-react"
-import BecomeLeader from "../assets/becomeleader.png"
+import BecomeLeader from "../assets/becomeleader2.png"
 
 export default function Home({ data }) {
   return (
