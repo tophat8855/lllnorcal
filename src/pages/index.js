@@ -16,12 +16,6 @@ export default function Home({ data }) {
           Welcome
         </h2>
 
-        <div class="row">
-          <a href="https://lllusa.org/interested-in-becoming-a-leader/" alt="Become a La Leche League leader">
-            <img src={BecomeLeader} style={{maxWidth: "400px"}} />
-          </a>
-        </div>
-
         <h3>Support</h3>
 
         <p>
@@ -34,6 +28,12 @@ export default function Home({ data }) {
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
           <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
         </form>
+
+        <div class="row">
+          <a href="https://lllusa.org/interested-in-becoming-a-leader/" alt="Become a La Leche League leader">
+            <img src={BecomeLeader} style={{maxWidth: "400px"}} />
+          </a>
+        </div>
       </Container>
     </Layout>
   )
