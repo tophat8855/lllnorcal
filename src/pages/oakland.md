@@ -2,7 +2,9 @@
 group: "Oakland"
 state: California
 meetings:
-  - name: No in-person meetings at this time.
+  - time: Second Tuesday of the month, noon Pacific time.
+    location: This is a virtual meeting via zoom.
+    notes: Please email la.leche.league.oakland@gmail.com for the meeting link and password!
 leaders:
   - name: Oakland Help Line and Tonya
     telephone: 510-545-3840
