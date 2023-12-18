@@ -2,9 +2,7 @@
 group: "Alameda"
 state: California
 meetings:
-  - time: "Third Wednesday of each month at 10:00am. Meetings in December are held on the second Wednesday."
-    location: "This is a virtual meeting. Please text (510) 592-8539 or email LLLofAlameda@gmail.com for meeting link and password."
-    flyer: n
+  - notes: "No meetings at this time."
 website:
   name: La Leche League of Alameda
   url: https://alamedalll.weebly.com
@@ -21,7 +19,6 @@ leaders:
 ---
 
 **Founded in 1964, La Leche League of Alameda offers:**
-- Monthly support meetings
 - A large lending library
 - Free telephone counseling from accredited Leaders
 - The latest breastfeeding information
