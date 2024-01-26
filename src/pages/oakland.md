@@ -1,6 +1,6 @@
 ---
 group: "Oakland"
-state: California
+state: "Northern California"
 meetings:
   - time: Second Tuesday of the month, noon Pacific time.
     location: This is a virtual meeting via zoom.

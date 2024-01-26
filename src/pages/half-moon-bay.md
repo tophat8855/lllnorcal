@@ -1,6 +1,6 @@
 ---
 group: "Half Moon Bay"
-state: California
+state: "Northern California"
 meetings:
   - time: "TBA"
     location: TBA

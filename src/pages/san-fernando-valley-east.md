@@ -1,6 +1,6 @@
 ---
 group: "San Fernando Valley East (Sherman Oaks, Burbank, & Glendale)"
-state: California
+state: "Southern California"
 meetings:
   - notes: No in-person meetings at this time.
 leaders:

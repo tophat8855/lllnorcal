@@ -1,6 +1,6 @@
 ---
 group: "Camarillo"
-state: California
+state: "Southern California"
 leaders:
   - name: Natalie
     email: lalechecamarillo@gmail.com

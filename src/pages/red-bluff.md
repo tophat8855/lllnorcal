@@ -1,6 +1,6 @@
 ---
 group: "Red Bluff"
-state: California
+state: "Northern California"
 meetings:
   - time: No in-person meetings at this time. Contact a leader for support.
 leaders:

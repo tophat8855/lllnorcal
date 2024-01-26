@@ -35,9 +35,10 @@ export default function Layout({ children }) {
     <div>
       <MenuHeader
         title={data.site.siteMetadata.title}
-        california={data.allMarkdownRemark.group[0].edges}
-        hawaii={data.allMarkdownRemark.group[1].edges}
-        nevada={data.allMarkdownRemark.group[2].edges}
+        northernCalifornia={data.allMarkdownRemark.group[2].edges}
+        southernCalifornia={data.allMarkdownRemark.group[3].edges}
+        hawaii={data.allMarkdownRemark.group[0].edges}
+        nevada={data.allMarkdownRemark.group[1].edges}
         />
       <Grid centered>
         <Grid.Column mobile={16} tablet={4} computer={4}>

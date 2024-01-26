@@ -1,6 +1,6 @@
 ---
 group: "Solano County"
-state: California
+state: "Northern California"
 meetings:
   - name: Fairfield Meeting
     time: "10AM-11:30AM on the 4th Saturday of the month"

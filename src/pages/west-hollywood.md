@@ -1,6 +1,6 @@
 ---
 group: "West Hollywood"
-state: California
+state: "Southern California"
 meetings:
   - time: Every third Tuesday of the month at 10am
     location: On Zoom.

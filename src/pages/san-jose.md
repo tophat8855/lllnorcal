@@ -1,6 +1,6 @@
 ---
 group: "San Jose"
-state: California
+state: "Northern California"
 meetings:
   - time: 7pm on the second Tuesday of the month
     location: online

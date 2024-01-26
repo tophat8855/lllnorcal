@@ -1,6 +1,6 @@
 ---
 group: "Stanislaus County"
-state: California
+state: "Northern California"
 meetings:
   - time: TBD
 ---

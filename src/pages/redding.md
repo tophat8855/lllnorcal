@@ -1,6 +1,6 @@
 ---
 group: "Redding"
-state: California
+state: "Northern California"
 meetings:
   - name: LLL of Redding
     notes: Due to Covid-19, there are no in-person meetings.

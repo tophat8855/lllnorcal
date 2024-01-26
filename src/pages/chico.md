@@ -1,6 +1,6 @@
 ---
 group: "Chico"
-state: California
+state: "Northern California"
 website:
   name: La Leche League of Chico
   url: http://www.lllchico.org/

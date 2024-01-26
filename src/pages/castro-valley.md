@@ -1,6 +1,6 @@
 ---
 group: "Castro Valley and San Leandro"
-state: California
+state: "Northern California"
 meetings:
   - time: "Monthly on the 2nd Friday of the month 10am-11:30am"
     location: Main Library in San Leandro (300 Estudillo Avenue)

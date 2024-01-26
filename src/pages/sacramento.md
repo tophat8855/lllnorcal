@@ -1,6 +1,6 @@
 ---
 group: "Sacramento"
-state: California
+state: "Northern California"
 meetings:
   - name: On Zoom and in-person for the time being and subject to change
     time: "On the second Tuesday at 6pm on Zoom and third Thursdays at 10am of the month"

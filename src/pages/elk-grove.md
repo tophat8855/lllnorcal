@@ -1,6 +1,6 @@
 ---
 group: "Elk Grove"
-state: California
+state: "Northern California"
 meetings:
   - notes: There are no current meetings. Contact a leader for help nursing.
 leaders:

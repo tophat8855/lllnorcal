@@ -1,6 +1,6 @@
 ---
 group: "Auburn"
-state: California
+state: "Northern California"
 meetings:
   - time: "Third Wednesday of each month at 10am"
 facebook: 

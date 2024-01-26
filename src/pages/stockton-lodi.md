@@ -1,6 +1,6 @@
 ---
 group: "Stockton and Lodi"
-state: California
+state: "Northern California"
 meetings:
   - name: Stockton
     time: No in-person meetings at this time. Contact a leader for support.

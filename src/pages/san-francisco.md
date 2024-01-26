@@ -1,6 +1,6 @@
 ---
 group: "San Francisco"
-state: California
+state: "Northern California"
 meetings:
   - notes: Text 415-320-8116 for meeting link and password.
 website:

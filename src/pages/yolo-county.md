@@ -1,6 +1,6 @@
 ---
 group: "Yolo County"
-state: California
+state: "Northern California"
 meetings:
   - notes: No meetings at this time. 
 leaders:

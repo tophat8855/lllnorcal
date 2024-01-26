@@ -1,6 +1,6 @@
 ---
 group: "Berkeley"
-state: California
+state: "Northern California"
 meetings:
   - time: "First Saturday of the month 10am"
     location: "Zoom Link from the Facebook Group"

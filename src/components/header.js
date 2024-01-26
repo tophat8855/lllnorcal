@@ -5,13 +5,15 @@ import 'semantic-ui-less/semantic.less'
 
 export default class MenuHeader extends Component {
   state = {
-      californiaActive: false,
+      northernCaliforniaActive: false,
+      southernCaliforniaActive: false,
       nevadaActive: false,
       hawaiiActive: false
   }
 
   handleItemClick = (e, { name }) => this.setState({ activeItem: name });
-  toggleCaliforniaClass = () => this.setState(prevState => ({ californiaActive: !prevState.californiaActive}))
+  toggleNorthernCaliforniaClass = () => this.setState(prevState => ({ northernCaliforniaActive: !prevState.northernCaliforniaActive}))
+  toggleSouthernCaliforniaClass = () => this.setState(prevState => ({ southernCaliforniaActive: !prevState.southernCaliforniaActive}))
   toggleNevadaClass = () => this.setState(prevState => ({ nevadaActive: !prevState.nevadaActive}))
   toggleHawaiiClass = () => this.setState(prevState => ({ hawaiiActive: !prevState.hawaiiActive}))
 
@@ -52,11 +54,25 @@ export default class MenuHeader extends Component {
           to={`/resources`}
         />
         <Dropdown item
-                  text='California'
-                  className={this.state.californiaActive ? 'visible': null}
-                  onClick={this.toggleCaliforniaClass}>
+                  text='Northern California'
+                  className={this.state.northernCaliforniaActive ? 'visible': null}
+                  onClick={this.toggleNorthernCaliforniaClass}>
           <DropdownMenu>
-            {this.props.california.map(({ node }) => (
+            {this.props.northernCalifornia.map(({ node }) => (
+              <DropdownItem key={node.id}
+                            as={Link}
+                            to={node.fields.slug}>
+                {node.frontmatter.group}
+              </DropdownItem>
+            ))}
+          </DropdownMenu>
+        </Dropdown>
+        <Dropdown item
+                  text='Southern California'
+                  className={this.state.southernCaliforniaActive ? 'visible': null}
+                  onClick={this.toggleSouthernCaliforniaClass}>
+          <DropdownMenu>
+            {this.props.southernCalifornia.map(({ node }) => (
               <DropdownItem key={node.id}
                             as={Link}
                             to={node.fields.slug}>
