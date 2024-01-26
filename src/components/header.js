@@ -21,6 +21,7 @@ export default class MenuHeader extends Component {
     const { activeItem } = this.state
 
     return (
+      <div>
       <Menu className='stackable'>
         <Menu.Item header as={Link} to={`/`}>
             {this.props.title}
@@ -53,6 +54,11 @@ export default class MenuHeader extends Component {
           as={Link}
           to={`/resources`}
         />
+      </Menu>
+      <Menu className='stackable'>
+        <Menu.Item header >
+            Groups
+        </Menu.Item>
         <Dropdown item
                   text='Northern California'
                   className={this.state.northernCaliforniaActive ? 'visible': null}
@@ -106,6 +112,7 @@ export default class MenuHeader extends Component {
           </DropdownMenu>
         </Dropdown>
       </Menu>
-    )
+      </div>
+   )
   }
 }
