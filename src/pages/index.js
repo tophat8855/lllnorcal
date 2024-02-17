@@ -31,7 +31,7 @@ export default function Home({ data }) {
 
         <div class="row">
           <a href="https://lllusa.org/interested-in-becoming-a-leader/" alt="Become a La Leche League leader">
-            <img src={BecomeLeader} style={{maxWidth: "400px"}} />
+            <img src={BecomeLeader} style={{maxWidth: "400px"}} alt="Become a La Leche League Leader"/>
           </a>
         </div>
       </Container>

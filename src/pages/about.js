@@ -73,7 +73,7 @@ export default function About({ data }) {
 
             <div class="eight wide column"> 
               <a href="https://lllusa.org/interested-in-becoming-a-leader/" alt="Become a La Leche League leader">
-                <img src={BecomeLeader} />
+                <img src={BecomeLeader} alt="Become a La Leche League Leader" />
               </a>
             </div>
           </div>
