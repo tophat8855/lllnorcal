@@ -7,7 +7,7 @@ meetings:
     location: Online
     notes: Contact Nickie for link
   - name: Fairfield Weekday Meeting
-    time: "9AM-10:30AM on the 2nd Tuesday of the month"
+    time: "9AM-10:30AM on the 2nd Friday of the month"
     location: Online
     notes: Contact Nickie for link
 facebook:
