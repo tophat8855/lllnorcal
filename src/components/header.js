@@ -54,6 +54,13 @@ export default class MenuHeader extends Component {
           as={Link}
           to={`/resources`}
         />
+        <Menu.Item
+          name='languages'
+          active={activeItem === 'languages'}
+          onClick={this.handleItemClick}
+          as={Link}
+          to={`/languages`}
+        />
       </Menu>
       <Menu className='stackable'>
         <Menu.Item header >

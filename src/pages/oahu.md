@@ -8,7 +8,7 @@ meetings:
 website:
   url: https://lllofoahu.wixsite.com/home
   name: La Leche League of Oahu
-facebook: 
+facebook:
   name: La Leche League of Oahu
   url: https://www.facebook.com/groups/287511812726784
 instagram: lalecheleaguehawaii
