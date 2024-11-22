@@ -2,8 +2,7 @@
 group: "San Francisco"
 state: "Northern California"
 meetings:
-  - time: 6:30-7:30pm 2nd Tuesday of the month
-    location: 441 Westlake Center, Daly City, CA 94015
+  - time: On hold until further notice
     notes: Updates will be posted on the La Leche League of San Francisco Facebook group.
 website:
   name: La Leche League San Francisco, CA
