@@ -9,15 +9,15 @@ export default function About({ data }) {
   return (
     <Layout>
       <Helmet>
-        <title>About La Leche League of Northern California, Hawaii, and Northern Nevada</title>
-        <meta name="description" content="About La Leche League of Northern California, Hawaii, and Northern Nevada: what LLL does, who LLL leaders are, and who can attend meetings."/>
+        <title>About La Leche League of California, Hawaii, and Nevada</title>
+        <meta name="description" content="About La Leche League of California, Hawaii, and Nevada: what LLL does, who LLL leaders are, and who can attend meetings."/>
         <script type="application/ld+json">
           {`
             {
               "@context": "https://schema.org",
               "@type": "Organization",
               "url": "http://lllnorcal.org",
-              "name": "La Leche League of Northern California, Hawaii, and Northern Nevada",
+              "name": "La Leche League of California, Hawaii, and Nevada",
               "logo": "http://lllnorcal.org//LLL-norcalhinv.jpg",
               "sameAs": ["https://www.facebook.com/lllnorcalhinv"]
               "description": "La Leche League helps parents, families, and communities to breastfeed, chestfeed, and human milk feed their babies through parent-to-parent support.",
@@ -83,12 +83,12 @@ export default function About({ data }) {
         </h3>
 
         <p>
-          La Leche League of Northern California, Hawaii, and Northern Nevada is contained within LLL USA.
+          La Leche League of California, Hawaii, and Nevada is contained within LLL USA.
         </p>
 
         <h4> Our Mission </h4>
         <p>
-          La Leche League of Northern California, Hawaii, and Northern Nevada helps parents,
+          La Leche League of California, Hawaii, and Nevada helps parents,
           families, and communities to breastfeed, chestfeed, and human milk feed their babies
           through parent-to-parent support. We encourage, inform, educate, support, and promote
           the use of human milk and the intimate relationship and development that comes from
@@ -98,12 +98,12 @@ export default function About({ data }) {
         <h4> Our Commitment </h4>
 
         <p>
-          La Leche League of Northern California, Hawaii, and Northern Nevada is committed
+          La Leche League of California, Hawaii, and Nevada is committed
           to diversity and inclusion. We support all breastfeeding, chestfeeding, and human
           milk feeding families, inclusive of their race, ethnicity, immigration status,
           national origin, creed, age, sexual orientation, gender identity, family structure,
-          primary language, ability, or socio-economic status. LLL of Northern California, Hawaii,
-          and Northern Nevada fosters diversity among its Leaders so as to incorporate a wide
+          primary language, ability, or socio-economic status. LLL of California, Hawaii,
+          and Nevada fosters diversity among its Leaders so as to incorporate a wide
           variety of perspectives and responsible decision-making.
         </p>
 

@@ -7,8 +7,8 @@ export default function Map({ data }) {
   return (
     <Layout>
       <Helmet>
-        <title>Calendar of La Leche League of Northern California, Hawaii, and Northern Nevada Groups</title>
-        <meta name="description" content="A calendar of when groups meet of LLL Northern California, Hawaii, and Northern Nevada are geographically."/>
+        <title>Calendar of La Leche League of California, Hawaii, and Nevada Groups</title>
+        <meta name="description" content="A calendar of when groups meet of LLL California, Hawaii, and Nevada are geographically."/>
       </Helmet>
       <Container>
         <div class="responsive-iframe-container big-container">

@@ -7,7 +7,7 @@ export default function Resources({data}) {
   return (
     <Layout>
       <Helmet>
-        <title>Resources related to La Leche League of Northern California, Hawaii, and Northern Nevada</title>
+        <title>Resources related to La Leche League of California, Hawaii, and Nevada</title>
         <meta name="description" content="A list of sites with information about La Leche League, breastfeeding, chestfeeding, and feeding babies and children human milk."/>
       </Helmet>
       <Container>

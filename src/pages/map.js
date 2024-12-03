@@ -7,8 +7,8 @@ export default function Map({ data }) {
   return (
     <Layout>
       <Helmet>
-        <title>Map of La Leche League of Northern California, Hawaii, and Northern Nevada Groups</title>
-        <meta name="description" content="A map indicating where local groups of LLL Northern California, Hawaii, and Northern Nevada are geographically."/>
+        <title>Map of La Leche League of California, Hawaii, and Nevada Groups</title>
+        <meta name="description" content="A map indicating where local groups of LLL California, Hawaii, and Nevada are geographically."/>
       </Helmet>
       <Container>
         <p>
