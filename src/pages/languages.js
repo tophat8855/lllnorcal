@@ -15,18 +15,13 @@ export default function Languages({data}) {
 
           <h2>Armenian հայերեն</h2>
           <div>Roza - <a href="mailto: rozabaghdassarianlll@gmail.com">email</a></div>
-          <div>Evelyn - <a href="tel:+8185237940">text</a></div>
 
           <h2>Italian Italiano</h2>
           <div>Brittany - <a href="mailto: BrittanyEOC@me.com">email</a>, <a href="tel:+4159401381"> text </a></div>
 
-          <h2>Russian русский</h2>
-          <div>Ksenia - <a href="mailto: galaninaksenia@gmail.com">email</a></div>
-
           <h2>Spanish Español</h2>
           <div>Brienne - <a href="tel:+8317762832">text</a></div>
           <div>Glory - <a href="mailto: glorimar.canedo@gmail.com"> email</a>, <a href="tel:+8082321912">text</a></div>
-          <div>Aimee - <a href="mailto: adebacker8@gmail.com">email</a>, <a href="tel:+8054445803">text</a></div>
           <div>Carolina - <a href="mailto: lllcarolinajones@gmail.com">email</a></div>
           <div>Nicole - <a href="mailto: npogrund@yahoo.com">email</a>, <a href="tel:+7073805177"> text </a></div>
 
