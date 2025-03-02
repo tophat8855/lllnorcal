@@ -24,6 +24,7 @@ export default function Languages({data}) {
           <div>Glory - <a href="mailto: glorimar.canedo@gmail.com"> email</a>, <a href="tel:+8082321912">text</a></div>
           <div>Carolina - <a href="mailto: lllcarolinajones@gmail.com">email</a></div>
           <div>Nicole - <a href="mailto: npogrund@yahoo.com">email</a>, <a href="tel:+7073805177"> text </a></div>
+          <div>Patti - <a href="mailto: mscocoa05@gmail.com">email</a>, <a href="tel:+9176086867"> text </a></div>
 
           <h2>Urdu/Hindi اُردُو हिन्दी</h2>
           <div> Gul - <a href="azaansmama@icloud.com"></a><a href="tel:+7753917703">text</a></div>

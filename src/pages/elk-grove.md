@@ -6,8 +6,5 @@ meetings:
 leaders:
   - name: Carolina
     email: lllcarolinajones@gmail.com
-  - name: Michelle
-    telephone: 916.956.1999
-    email: mmkunschke@gmail.com
 ---
 Leaders are open to questions via phone calls and emails.

@@ -14,8 +14,6 @@ facebooks:
 leaders:
   - name: Virginia (call only)
     telephone: 510-521-4867
-  - name: Brittany (text only)
-    telephone: 510-365-9220
 ---
 
 **Founded in 1964, La Leche League of Alameda offers:**
