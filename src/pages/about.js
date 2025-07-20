@@ -113,9 +113,9 @@ export default function About({ data }) {
 
         <List.Content>
           <List.List>
-            <List.Item href={"mailto: acl@lllnorcal.org"}>
+            <List.Item href={"mailto: lllofncahinnv@gmail.com"}>
               <List.Icon name='mail outline'/>
-              <List.Content>Email the ACL</List.Content>
+              <List.Content>Email the Area</List.Content>
             </List.Item>
             <List.Item href={"mailto: webadmin@lllnorcal.org"}>
               <List.Icon name='mail outline'/>
