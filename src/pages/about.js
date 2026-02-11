@@ -18,7 +18,7 @@ export default function About({ data }) {
               "@type": "Organization",
               "url": "http://lllnorcal.org",
               "name": "La Leche League of California, Hawaii, and Nevada",
-              "logo": "http://lllnorcal.org//LLL-norcalhinv.jpg",
+              "logo": "http://lllnorcal.org/LLL-calhinv.png",
               "sameAs": ["https://www.facebook.com/lllnorcalhinv"]
               "description": "La Leche League helps parents, families, and communities to breastfeed, chestfeed, and human milk feed their babies through parent-to-parent support.",
               "hasMap": "https://www.google.com/maps/d/u/0/edit?mid=1hyxawH8A-eXKT-c06gIH5tSyNQk&ll=29.54441943791395%2C-139.5863947&z=5",

@@ -45,7 +45,7 @@ export default function Layout({ children }) {
           <Image centered
           as={Link}
           to={`/`}
-          src={`/LLL-norcalhinv.jpg`}
+          src={`/LLL-calhinv.png`}
           size='medium'
           />
         </Grid.Column>
